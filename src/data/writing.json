@@ -1,0 +1,1420 @@
+{
+  "templates": [
+    {
+      "id": "campus-volunteering",
+      "name": "议论文观点类 · 大学是否应鼓励志愿服务",
+      "exam": "CET-4/6",
+      "type": "议论文观点类",
+      "structure": [
+        {
+          "name": "开头",
+          "detail": "陈述对校园志愿服务的立场"
+        },
+        {
+          "name": "主体",
+          "detail": "解释益处并用实例支撑"
+        },
+        {
+          "name": "结尾",
+          "detail": "重申立场并提出实施条件"
+        }
+      ],
+      "outline": "陈述对校园志愿服务的立场 → 解释益处并用实例支撑 → 重申立场并提出实施条件",
+      "sentenceFrames": [
+        {
+          "section": "开头",
+          "text": "I believe colleges should encourage students to ____."
+        },
+        {
+          "section": "主体",
+          "text": "One practical benefit of ____ is that ____."
+        },
+        {
+          "section": "结尾",
+          "text": "A better approach is to make ____ available while allowing students to ____."
+        }
+      ],
+      "sampleEssay": "Volunteer work deserves a regular place in college life. A university should encourage students to take part, while leaving them free to choose an activity that fits their interests and schedule.\n\nOne benefit is that students practise skills that rarely appear on written exams. A student who helps at a food bank has to listen carefully, explain tasks clearly, and work with people of different ages. These experiences can make group projects on campus easier as well. Another benefit is that local organisations gain a steady supply of help. If a campus club agrees to cover two shifts each month, a community centre can plan its services around a dependable team.\n\nThe college can support these partnerships by advertising opportunities in a single place and offering short training sessions before students begin. It should also invite volunteers to reflect on what they learned. This approach gives students a reason to return and gives organisations the continuity they need.",
+      "usefulPhrases": [
+        {
+          "phrase": "deserve a regular place in",
+          "cn": "值得在……中占有固定的位置"
+        },
+        {
+          "phrase": "fit their interests and schedule",
+          "cn": "符合他们的兴趣和时间安排"
+        },
+        {
+          "phrase": "practise skills",
+          "cn": "锻炼技能"
+        },
+        {
+          "phrase": "work with people of different ages",
+          "cn": "与不同年龄的人共事"
+        },
+        {
+          "phrase": "a steady supply of help",
+          "cn": "稳定的援助来源"
+        },
+        {
+          "phrase": "cover a shift",
+          "cn": "顶班"
+        },
+        {
+          "phrase": "plan services around",
+          "cn": "围绕……安排服务"
+        },
+        {
+          "phrase": "reflect on what they learned",
+          "cn": "反思所学"
+        }
+      ],
+      "checklist": [
+        "回应题目要求并交代对象或背景",
+        "每段围绕一个重点，给出事实、细节或例子",
+        "复查称谓、数字、时态和主谓一致",
+        "结尾重申结论或提供清楚的行动方式"
+      ],
+      "target": 150,
+      "wordCount": 158
+    },
+    {
+      "id": "food-waste",
+      "name": "问题解决类 · 校园食物浪费",
+      "exam": "CET-4/6",
+      "type": "问题解决类",
+      "structure": [
+        {
+          "name": "开头",
+          "detail": "指出浪费的表现与范围"
+        },
+        {
+          "name": "主体",
+          "detail": "把原因和相应措施配对"
+        },
+        {
+          "name": "结尾",
+          "detail": "用可衡量结果评估方案"
+        }
+      ],
+      "outline": "指出浪费的表现与范围 → 把原因和相应措施配对 → 用可衡量结果评估方案",
+      "sentenceFrames": [
+        {
+          "section": "开头",
+          "text": "Although ____ is convenient, it can lead to ____."
+        },
+        {
+          "section": "主体",
+          "text": "To address ____, canteens could ____."
+        },
+        {
+          "section": "结尾",
+          "text": "The success of these measures could be judged by ____."
+        }
+      ],
+      "sampleEssay": "At lunchtime, many college canteens serve rice in standard portions. This makes the queue move quickly, but it also leaves food on the plates of students who are less hungry. Some waste occurs even earlier when kitchens prepare more meals than they can sell.\n\nThe first change could be to let customers choose a small or regular portion at the counter. The smaller size could cost slightly less, so students would have a reason to consider how much they need. The second change would involve counting meals sold each day and comparing the figures with the academic calendar. A kitchen could then reduce production on days when many classes are cancelled and prepare more on busy days.\n\nBoth changes can be tested in one canteen for a month. Staff should weigh leftovers and ask customers whether they can still get the meals they want. If waste falls without long queues or frequent shortages, the university can expand the programme.",
+      "usefulPhrases": [
+        {
+          "phrase": "standard portions",
+          "cn": "标准份量"
+        },
+        {
+          "phrase": "make the queue move quickly",
+          "cn": "让队伍快速前进"
+        },
+        {
+          "phrase": "prepare more meals than they can sell",
+          "cn": "准备超过销量的饭菜"
+        },
+        {
+          "phrase": "cost slightly less",
+          "cn": "价格略低"
+        },
+        {
+          "phrase": "compare figures with",
+          "cn": "将数据与……比较"
+        },
+        {
+          "phrase": "reduce production",
+          "cn": "减少产量"
+        },
+        {
+          "phrase": "weigh leftovers",
+          "cn": "称量剩饭"
+        },
+        {
+          "phrase": "frequent shortages",
+          "cn": "频繁短缺"
+        }
+      ],
+      "checklist": [
+        "回应题目要求并交代对象或背景",
+        "每段围绕一个重点，给出事实、细节或例子",
+        "复查称谓、数字、时态和主谓一致",
+        "结尾重申结论或提供清楚的行动方式"
+      ],
+      "target": 150,
+      "wordCount": 159
+    },
+    {
+      "id": "travel-survey",
+      "name": "图表作文 · 通勤方式调查",
+      "exam": "CET-4/6",
+      "type": "图表作文",
+      "structure": [
+        {
+          "name": "开头",
+          "detail": "交代调查对象和时间"
+        },
+        {
+          "name": "主体",
+          "detail": "用数字描述最明显变化和对照"
+        },
+        {
+          "name": "结尾",
+          "detail": "区分调查结果与可能解释"
+        }
+      ],
+      "outline": "交代调查对象和时间 → 用数字描述最明显变化和对照 → 区分调查结果与可能解释",
+      "sentenceFrames": [
+        {
+          "section": "开头",
+          "text": "The survey compares ____ in ____ and ____."
+        },
+        {
+          "section": "主体",
+          "text": "The share of ____ rose from ____ to ____."
+        },
+        {
+          "section": "结尾",
+          "text": "One possible explanation for this change is ____."
+        }
+      ],
+      "sampleEssay": "A campus survey asked students how they usually travelled to class in 2022 and again in 2025. The most striking result was the increase in cycling. The percentage of students who usually rode a bike doubled from 12 percent to 24 percent.\n\nThe other three methods became somewhat less popular. Bus travel fell from 38 percent to 33 percent, although it was still the most common choice in 2025. Walking dropped by three percentage points to 31 percent, while driving fell from 16 percent to 12 percent. The combined share of walking and cycling nevertheless increased, from 46 percent to 55 percent.\n\nOne possible explanation is that a safer cycle route made short journeys easier. The figures alone cannot tell us whether students actually used such a route or whether other factors, such as changes in housing, mattered more. A later survey could ask students why they chose each method and where they started their journeys.",
+      "usefulPhrases": [
+        {
+          "phrase": "the most striking result",
+          "cn": "最显著的结果"
+        },
+        {
+          "phrase": "double from … to …",
+          "cn": "从……翻番至……"
+        },
+        {
+          "phrase": "the most common choice",
+          "cn": "最常见的选择"
+        },
+        {
+          "phrase": "percentage points",
+          "cn": "百分点"
+        },
+        {
+          "phrase": "the combined share",
+          "cn": "合计占比"
+        },
+        {
+          "phrase": "one possible explanation",
+          "cn": "一种可能的解释"
+        },
+        {
+          "phrase": "the figures alone",
+          "cn": "仅凭这些数据"
+        },
+        {
+          "phrase": "other factors may have mattered more",
+          "cn": "其他因素可能影响更大"
+        }
+      ],
+      "checklist": [
+        "回应题目要求并交代对象或背景",
+        "每段围绕一个重点，给出事实、细节或例子",
+        "复查称谓、数字、时态和主谓一致",
+        "结尾重申结论或提供清楚的行动方式"
+      ],
+      "target": 150,
+      "wordCount": 156
+    },
+    {
+      "id": "request-letter",
+      "name": "书信 · 申请延长阅览室开放时间",
+      "exam": "CET-4/6",
+      "type": "书信",
+      "structure": [
+        {
+          "name": "首段",
+          "detail": "明确写信目的与请求"
+        },
+        {
+          "name": "主体",
+          "detail": "给出事实和可行安排"
+        },
+        {
+          "name": "末段",
+          "detail": "表达谢意并说明可提供的帮助"
+        }
+      ],
+      "outline": "明确写信目的与请求 → 给出事实和可行安排 → 表达谢意并说明可提供的帮助",
+      "sentenceFrames": [
+        {
+          "section": "首段",
+          "text": "I am writing to ask whether ____."
+        },
+        {
+          "section": "主体",
+          "text": "A practical arrangement would be to ____."
+        },
+        {
+          "section": "末段",
+          "text": "Thank you for considering ____. I would be happy to ____."
+        }
+      ],
+      "sampleEssay": "Dear Library Manager,\n\nI am writing on behalf of students who use the main reading room to ask whether it could stay open until ten in the evening during the two weeks before final exams.\n\nSeveral evening classes finish shortly before the library closes. Students in those classes have little time to review notes or use the reference books that cannot be borrowed. The study rooms in our residence halls are often full at this time of year, so they offer limited help.\n\nA practical arrangement would be to keep only the ground floor open after eight. Students could enter with their campus cards, and the borrowing desk could keep its normal hours. Our student association can share the temporary schedule and remind users to leave quietly. We can also collect feedback about demand during the trial.\n\nThank you for considering this request. I would be happy to provide the results of our short survey or discuss the plan with your team.\n\nYours sincerely,\nChen Lin",
+      "usefulPhrases": [
+        {
+          "phrase": "on behalf of",
+          "cn": "代表"
+        },
+        {
+          "phrase": "stay open until",
+          "cn": "开放至……"
+        },
+        {
+          "phrase": "have little time to",
+          "cn": "几乎没有时间做……"
+        },
+        {
+          "phrase": "offer limited help",
+          "cn": "能提供的帮助有限"
+        },
+        {
+          "phrase": "a practical arrangement",
+          "cn": "可行的安排"
+        },
+        {
+          "phrase": "keep its normal hours",
+          "cn": "维持正常开放时间"
+        },
+        {
+          "phrase": "collect feedback about demand",
+          "cn": "收集有关需求的反馈"
+        },
+        {
+          "phrase": "provide the results of our survey",
+          "cn": "提供我们的调查结果"
+        }
+      ],
+      "checklist": [
+        "回应题目要求并交代对象或背景",
+        "每段围绕一个重点，给出事实、细节或例子",
+        "复查称谓、数字、时态和主谓一致",
+        "结尾重申结论或提供清楚的行动方式"
+      ],
+      "target": 150,
+      "wordCount": 166
+    },
+    {
+      "id": "book-swap",
+      "name": "通知/倡议书 · 校园图书交换活动",
+      "exam": "CET-4/6",
+      "type": "通知/倡议书",
+      "structure": [
+        {
+          "name": "首段",
+          "detail": "给出活动目的与时间地点"
+        },
+        {
+          "name": "主体",
+          "detail": "说明参与步骤与规则"
+        },
+        {
+          "name": "末段",
+          "detail": "说明报名或咨询渠道"
+        }
+      ],
+      "outline": "给出活动目的与时间地点 → 说明参与步骤与规则 → 说明报名或咨询渠道",
+      "sentenceFrames": [
+        {
+          "section": "首段",
+          "text": "Join us at ____ on ____ to ____."
+        },
+        {
+          "section": "主体",
+          "text": "For every ____ you bring, you will receive ____."
+        },
+        {
+          "section": "末段",
+          "text": "To volunteer for ____, please contact ____ by ____."
+        }
+      ],
+      "sampleEssay": "The Student Reading Club invites all students to a book swap on Friday, 16 October, from three to six in the afternoon in the ground floor hall of the student centre. The event is a chance to pass on a book you enjoyed and find something new to read without buying it.\n\nPlease bring up to five books in good condition. We welcome novels, essays and popular science books in any language. At the entrance, a volunteer will give you one ticket for each book you donate. Each ticket can be exchanged for one book from the tables. If you have nothing to bring, you can browse the remaining books freely after five thirty.\n\nVolunteers can help sort books before the event or assist visitors at the entrance. To join a shift, email the Reading Club by Wednesday with your name and available times. Books left at closing time will be offered to the community reading room.",
+      "usefulPhrases": [
+        {
+          "phrase": "from three to six in the afternoon",
+          "cn": "下午三点到六点"
+        },
+        {
+          "phrase": "pass on a book",
+          "cn": "将书转给他人"
+        },
+        {
+          "phrase": "in good condition",
+          "cn": "状态良好"
+        },
+        {
+          "phrase": "at the entrance",
+          "cn": "在入口处"
+        },
+        {
+          "phrase": "be exchanged for",
+          "cn": "可换取"
+        },
+        {
+          "phrase": "browse the remaining books",
+          "cn": "翻阅剩下的书"
+        },
+        {
+          "phrase": "join a shift",
+          "cn": "报名参加一个班次"
+        },
+        {
+          "phrase": "at closing time",
+          "cn": "活动结束时"
+        }
+      ],
+      "checklist": [
+        "回应题目要求并交代对象或背景",
+        "每段围绕一个重点，给出事实、细节或例子",
+        "复查称谓、数字、时态和主谓一致",
+        "结尾重申结论或提供清楚的行动方式"
+      ],
+      "target": 150,
+      "wordCount": 157
+    },
+    {
+      "id": "museum-lines",
+      "name": "折线图 · 两座博物馆年访客量",
+      "exam": "IELTS Task 1",
+      "type": "折线图",
+      "structure": [
+        {
+          "name": "开头",
+          "detail": "改述图表范围和单位"
+        },
+        {
+          "name": "概览",
+          "detail": "概述共同趋势与相对位置"
+        },
+        {
+          "name": "主体",
+          "detail": "按时间段写关键数据"
+        }
+      ],
+      "outline": "改述图表范围和单位 → 概述共同趋势与相对位置 → 按时间段写关键数据",
+      "sentenceFrames": [
+        {
+          "section": "开头",
+          "text": "The line graph compares ____ over the period from ____ to ____."
+        },
+        {
+          "section": "概览",
+          "text": "Overall, both figures ____, with ____ remaining higher throughout."
+        },
+        {
+          "section": "主体",
+          "text": "After falling to ____, the figure recovered to ____ by ____."
+        }
+      ],
+      "sampleEssay": "The line graph compares annual attendance at the City Museum and the Maritime Museum over the five years from 2019 to 2023. Visitor figures are given in thousands.\n\nOverall, both museums recorded a decline in the second year, followed by three consecutive years of growth. The City Museum attracted more visitors every year. Its lead was smallest in 2020 and 2021 and reached its widest point at the end of the period.\n\nIn 2019, the City Museum welcomed 120,000 people, compared with 90,000 at the Maritime Museum. Attendance then fell by 40,000 at the City Museum and by 30,000 at the Maritime Museum. The two figures increased by the same amount in 2021, rising by 15,000 each to reach 95,000 and 75,000 respectively. At that stage, neither venue had returned to its opening figure.\n\nThe recovery accelerated in 2022. The City Museum added another 35,000 visitors and reached 130,000, while a rise of 25,000 brought the Maritime Museum to 100,000. Both totals were now above their 2019 levels. In the final year, attendance at the City Museum rose by a further 30,000 to a peak of 160,000. The Maritime Museum gained 10,000 visitors in the same year, bringing its figure to 110,000 and leaving a gap of 50,000.",
+      "usefulPhrases": [
+        {
+          "phrase": "annual attendance",
+          "cn": "年度到访人数"
+        },
+        {
+          "phrase": "given in thousands",
+          "cn": "以千为单位"
+        },
+        {
+          "phrase": "three consecutive years of growth",
+          "cn": "连续三年增长"
+        },
+        {
+          "phrase": "reach its widest point",
+          "cn": "达到最大差距"
+        },
+        {
+          "phrase": "rise by the same amount",
+          "cn": "增幅相同"
+        },
+        {
+          "phrase": "return to its opening figure",
+          "cn": "回到起始数值"
+        },
+        {
+          "phrase": "the recovery accelerated",
+          "cn": "回升速度加快"
+        },
+        {
+          "phrase": "rise to a peak of",
+          "cn": "升至……的峰值"
+        }
+      ],
+      "checklist": [
+        "用自己的话交代图表主题、时间和单位",
+        "概览概括最主要的趋势、差距或流程分支",
+        "选择有代表性的数据或步骤进行比较和描述",
+        "核查时间、单位和数字，避免加入图表未说明的原因"
+      ],
+      "target": 200,
+      "wordCount": 208
+    },
+    {
+      "id": "commute-bars",
+      "name": "柱状图 · 三区居民通勤方式",
+      "exam": "IELTS Task 1",
+      "type": "柱状图",
+      "structure": [
+        {
+          "name": "开头",
+          "detail": "说明比较组别和测量量"
+        },
+        {
+          "name": "概览",
+          "detail": "找出总体模式及例外"
+        },
+        {
+          "name": "主体",
+          "detail": "比较最高最低及差值"
+        }
+      ],
+      "outline": "说明比较组别和测量量 → 找出总体模式及例外 → 比较最高最低及差值",
+      "sentenceFrames": [
+        {
+          "section": "开头",
+          "text": "The bar chart shows the percentage of ____ in each of ____."
+        },
+        {
+          "section": "概览",
+          "text": "The leading mode differs by area, with ____ most prominent in ____."
+        },
+        {
+          "section": "主体",
+          "text": "At ____, the share for ____ is ____ percentage points higher than in ____."
+        }
+      ],
+      "sampleEssay": "The bar chart compares the proportions of commuters who walk, cycle, take a bus or drive in three districts, namely North, Central and South.\n\nOverall, the most common mode varies across the three districts. Bus travel leads in North, driving leads in South, and walking and bus travel are equally common in Central. The largest geographical differences are in driving and walking, whereas cycling varies by only ten percentage points.\n\nIn North, four out of every ten commuters take the bus. This is ten percentage points more than the share who drive, which stands at 30 percent. Walking accounts for a further 20 percent, and cycling is the least common option, at 10 percent. In Central, walking and bus travel each represent 35 percent of journeys. Cycling and driving also have equal shares there, with each accounting for 15 percent. This is the lowest recorded share for car travel among the three districts.\n\nSouth has the highest share of drivers at 45 percent, three times the Central figure. The bus is the second most popular mode in South, although its share of 25 percent is the lowest bus figure shown. One fifth of commuters cycle in this district, twice the North proportion. Walking ranks last in South at 10 percent.",
+      "usefulPhrases": [
+        {
+          "phrase": "the most common mode",
+          "cn": "最常用的方式"
+        },
+        {
+          "phrase": "vary across districts",
+          "cn": "各地区有差异"
+        },
+        {
+          "phrase": "equally common",
+          "cn": "普及程度相同"
+        },
+        {
+          "phrase": "four out of every ten",
+          "cn": "每十人中有四人"
+        },
+        {
+          "phrase": "account for a further",
+          "cn": "另外占据……"
+        },
+        {
+          "phrase": "the lowest recorded share",
+          "cn": "记录中的最低占比"
+        },
+        {
+          "phrase": "three times the figure",
+          "cn": "该数值的三倍"
+        },
+        {
+          "phrase": "rank last",
+          "cn": "排在末位"
+        }
+      ],
+      "checklist": [
+        "用自己的话交代图表主题、时间和单位",
+        "概览概括最主要的趋势、差距或流程分支",
+        "选择有代表性的数据或步骤进行比较和描述",
+        "核查时间、单位和数字，避免加入图表未说明的原因"
+      ],
+      "target": 200,
+      "wordCount": 210
+    },
+    {
+      "id": "library-pies",
+      "name": "饼图 · 图书馆预算结构",
+      "exam": "IELTS Task 1",
+      "type": "饼图",
+      "structure": [
+        {
+          "name": "开头",
+          "detail": "说明两图的年份和类别"
+        },
+        {
+          "name": "概览",
+          "detail": "指出最大项目和主要转移"
+        },
+        {
+          "name": "主体",
+          "detail": "比较百分点与排名"
+        }
+      ],
+      "outline": "说明两图的年份和类别 → 指出最大项目和主要转移 → 比较百分点与排名",
+      "sentenceFrames": [
+        {
+          "section": "开头",
+          "text": "The pie charts show how ____ was divided among ____ in ____ and ____."
+        },
+        {
+          "section": "概览",
+          "text": "Overall, ____ remained the largest item, while ____ gained the most ground."
+        },
+        {
+          "section": "主体",
+          "text": "The proportion spent on ____ increased by ____ percentage points."
+        }
+      ],
+      "sampleEssay": "The two pie charts show how a library allocated its budget across four categories in 2020 and 2025. The categories are staff, collections, digital services and events.\n\nOverall, staffing took the largest share of the budget in both years. The most substantial change was the growth of the digital services allocation, which rose above collections to become the second largest item by 2025. Events accounted for the smallest share in both charts, and that share stayed the same.\n\nIn 2020, staff costs represented 40 percent of the budget. Collections followed at 35 percent, only five percentage points behind. These two categories together absorbed three quarters of the available budget. Digital services took 15 percent, and events made up the remaining 10 percent. At this point, the collections share was more than double the digital services figure.\n\nBy 2025, the staff allocation had slipped by two percentage points to 38 percent. The collections share saw a much steeper decrease, falling by ten points to 25 percent. Together, staff and collections then represented 63 percent of the budget. Over the same period, digital services rose from 15 to 27 percent, placing the category two points above collections and eleven points below staffing. The allocation for events remained at 10 percent.",
+      "usefulPhrases": [
+        {
+          "phrase": "allocate the budget across",
+          "cn": "将预算分配给……"
+        },
+        {
+          "phrase": "take the largest share",
+          "cn": "占比最大"
+        },
+        {
+          "phrase": "overtake collections",
+          "cn": "超过馆藏项目"
+        },
+        {
+          "phrase": "make up the remaining share",
+          "cn": "构成剩余份额"
+        },
+        {
+          "phrase": "more than double",
+          "cn": "是……的两倍以上"
+        },
+        {
+          "phrase": "slip by two points",
+          "cn": "微降两个百分点"
+        },
+        {
+          "phrase": "see a much steeper decrease",
+          "cn": "出现幅度大得多的下降"
+        },
+        {
+          "phrase": "remain at ten percent",
+          "cn": "维持在百分之十"
+        }
+      ],
+      "checklist": [
+        "用自己的话交代图表主题、时间和单位",
+        "概览概括最主要的趋势、差距或流程分支",
+        "选择有代表性的数据或步骤进行比较和描述",
+        "核查时间、单位和数字，避免加入图表未说明的原因"
+      ],
+      "target": 200,
+      "wordCount": 208
+    },
+    {
+      "id": "energy-tables",
+      "name": "表格 · 四国可再生电力占比",
+      "exam": "IELTS Task 1",
+      "type": "表格",
+      "structure": [
+        {
+          "name": "开头",
+          "detail": "交代指标、地点及年份"
+        },
+        {
+          "name": "概览",
+          "detail": "归纳变化方向和极值"
+        },
+        {
+          "name": "主体",
+          "detail": "按变化幅度和排名分组"
+        }
+      ],
+      "outline": "交代指标、地点及年份 → 归纳变化方向和极值 → 按变化幅度和排名分组",
+      "sentenceFrames": [
+        {
+          "section": "开头",
+          "text": "The table provides figures for ____ in ____ in two different years."
+        },
+        {
+          "section": "概览",
+          "text": "Most countries saw ____, with ____ the sole exception."
+        },
+        {
+          "section": "主体",
+          "text": "The largest increase was recorded in ____, where the figure rose by ____ percentage points."
+        }
+      ],
+      "sampleEssay": "The table compares the percentage of electricity supplied by renewable sources in four countries in 2015 and 2025. The countries shown are Arden, Bellin, Cuvera and Dalen.\n\nOverall, the share of renewable electricity rose in three of the countries, with Dalen recording a slight decrease. Bellin had the highest figure in both years. Cuvera increased its renewable share by the widest margin and moved ahead of Dalen, despite having the lowest figure initially.\n\nIn 2015, renewables accounted for 48 percent of electricity in Bellin. This was considerably higher than in Dalen, which ranked second at 30 percent. Arden followed with a share of 22 percent, and Cuvera came last at 15 percent. The difference between the highest and lowest figures was therefore 33 percentage points at the beginning of the period.\n\nBy 2025, Bellin had reached 55 percent, a rise of seven percentage points. Arden recorded a stronger increase of 15 points and ranked second at 37 percent. Cuvera moved up to third place after a rise of 18 points, to 33 percent. Dalen, meanwhile, saw its share edge down from 30 to 29 percent. The gap between Bellin and the lowest ranked country narrowed to 26 points, and Bellin was still the only country in which renewables provided more than half of electricity.",
+      "usefulPhrases": [
+        {
+          "phrase": "renewable electricity",
+          "cn": "可再生电力"
+        },
+        {
+          "phrase": "record a slight decrease",
+          "cn": "出现小幅下降"
+        },
+        {
+          "phrase": "increase by the widest margin",
+          "cn": "增长幅度最大"
+        },
+        {
+          "phrase": "rank second",
+          "cn": "排名第二"
+        },
+        {
+          "phrase": "come last",
+          "cn": "位居末位"
+        },
+        {
+          "phrase": "a rise of seven percentage points",
+          "cn": "增加七个百分点"
+        },
+        {
+          "phrase": "edge down from",
+          "cn": "从……略有下降"
+        },
+        {
+          "phrase": "the gap narrowed",
+          "cn": "差距缩小"
+        }
+      ],
+      "checklist": [
+        "用自己的话交代图表主题、时间和单位",
+        "概览概括最主要的趋势、差距或流程分支",
+        "选择有代表性的数据或步骤进行比较和描述",
+        "核查时间、单位和数字，避免加入图表未说明的原因"
+      ],
+      "target": 200,
+      "wordCount": 214
+    },
+    {
+      "id": "rainwater-process",
+      "name": "流程图 · 社区花园雨水利用流程",
+      "exam": "IELTS Task 1",
+      "type": "流程图",
+      "structure": [
+        {
+          "name": "开头",
+          "detail": "说明流程功能和边界"
+        },
+        {
+          "name": "概览",
+          "detail": "概括起点、终点及分支"
+        },
+        {
+          "name": "主体",
+          "detail": "依次说明设备和水流去向"
+        }
+      ],
+      "outline": "说明流程功能和边界 → 概括起点、终点及分支 → 依次说明设备和水流去向",
+      "sentenceFrames": [
+        {
+          "section": "开头",
+          "text": "The diagram illustrates how ____ is collected and used for ____."
+        },
+        {
+          "section": "概览",
+          "text": "The system starts with ____ and ends with ____, while surplus water is diverted to ____."
+        },
+        {
+          "section": "主体",
+          "text": "Once ____ has passed through ____, it flows into ____."
+        }
+      ],
+      "sampleEssay": "The diagram shows how rainwater is collected from the roof of a shed and used to water plants in a community garden. The system consists of a roof, a series of gutters, a screen, a storage tank, a gravel bed and a hose.\n\nOverall, water moves from the roof to the storage tank through a filter, and most of it is intended for irrigation. When the tank reaches its capacity, the surplus takes a separate route into a gravel bed. The storage tank is consequently the point at which the two routes separate.\n\nDuring rainfall, water lands on the shed roof and runs down into gutters along the lower edges. The gutters direct the flow towards a screen. As the rainwater passes through the screen, leaves are trapped and the filtered water continues to the tank. Water can then remain in the tank until it is needed. If more water arrives after the tank is full, it leaves through the overflow outlet and drains into the nearby gravel bed.\n\nFor irrigation, a hose is connected to the outlet used to draw water from the tank. Gardeners open this outlet and guide the water through the hose to the plants. Water entering the gravel bed and water reaching the plants thus come from the same roof but leave the tank through different outlets.",
+      "usefulPhrases": [
+        {
+          "phrase": "run down into",
+          "cn": "向下流入"
+        },
+        {
+          "phrase": "reach its capacity",
+          "cn": "达到容量上限"
+        },
+        {
+          "phrase": "take a separate route",
+          "cn": "走另一条路径"
+        },
+        {
+          "phrase": "direct the flow towards",
+          "cn": "将水流导向……"
+        },
+        {
+          "phrase": "be trapped by a screen",
+          "cn": "被滤网拦住"
+        },
+        {
+          "phrase": "continue to the tank",
+          "cn": "继续流入水箱"
+        },
+        {
+          "phrase": "drain into the gravel bed",
+          "cn": "排入碎石层"
+        },
+        {
+          "phrase": "draw water from the tank",
+          "cn": "从水箱取水"
+        }
+      ],
+      "checklist": [
+        "用自己的话交代图表主题、时间和单位",
+        "概览概括最主要的趋势、差距或流程分支",
+        "选择有代表性的数据或步骤进行比较和描述",
+        "核查时间、单位和数字，避免加入图表未说明的原因"
+      ],
+      "target": 200,
+      "wordCount": 222
+    },
+    {
+      "id": "four-day",
+      "name": "同意与否 · 四天工作制",
+      "exam": "IELTS Task 2",
+      "type": "同意与否",
+      "structure": [
+        {
+          "name": "开头",
+          "detail": "清楚陈述同意程度"
+        },
+        {
+          "name": "主体一",
+          "detail": "展开主要理由和例子"
+        },
+        {
+          "name": "主体二",
+          "detail": "解释限制及缓解措施"
+        },
+        {
+          "name": "结尾",
+          "detail": "重申立场和条件"
+        }
+      ],
+      "outline": "清楚陈述同意程度 → 展开主要理由和例子 → 解释限制及缓解措施 → 重申立场和条件",
+      "sentenceFrames": [
+        {
+          "section": "开头",
+          "text": "I support ____ in workplaces where ____."
+        },
+        {
+          "section": "主体一",
+          "text": "Reducing ____ can improve ____ when ____."
+        },
+        {
+          "section": "主体二",
+          "text": "A shorter week could create difficulties for ____ unless ____."
+        },
+        {
+          "section": "结尾",
+          "text": "On balance, employers should ____ where ____."
+        }
+      ],
+      "sampleEssay": "A four-day working week is often presented as a way to improve life outside the office. I support its introduction where employers can maintain service and reduce total working hours. An arrangement that simply moves the same hours into longer days offers less convincing benefits.\n\nThe clearest advantage is that employees gain a predictable block of time for rest and personal commitments. Workers can schedule medical appointments or care for relatives without repeatedly requesting time off. A shorter week can also prompt managers to examine how time is spent. For instance, an office that replaces several routine meetings with written updates may preserve its output despite working fewer hours. Employees also have a direct reason to help identify inefficient practices if the reform gives them more time of their own.\n\nSome organisations face genuine constraints. A clinic must see patients every weekday, and a short week for each employee cannot mean shorter opening hours. Staggered schedules might preserve coverage, but a clinic that already struggles to recruit staff could find the change expensive. In hospitals, for example, managers would need to check that weekend and evening shifts are shared fairly and that the trial does not increase pressure on temporary staff. Employers should therefore run a time-limited trial and measure outcomes such as waiting times, overtime and staff retention before making a permanent commitment.\n\nIn summary, the four-day week is worth trying wherever productivity and coverage can be measured. The goal should be to protect workers' time while continuing to meet the needs of customers and the public.",
+      "usefulPhrases": [
+        {
+          "phrase": "maintain service",
+          "cn": "维持服务"
+        },
+        {
+          "phrase": "move the same hours into longer days",
+          "cn": "将同样的工时集中在更长的工作日"
+        },
+        {
+          "phrase": "a predictable block of time",
+          "cn": "一段可以提前安排的时间"
+        },
+        {
+          "phrase": "request time off",
+          "cn": "请假"
+        },
+        {
+          "phrase": "preserve its output",
+          "cn": "维持产出"
+        },
+        {
+          "phrase": "face genuine constraints",
+          "cn": "面临实际限制"
+        },
+        {
+          "phrase": "staggered schedules",
+          "cn": "错峰排班"
+        },
+        {
+          "phrase": "a time-limited trial",
+          "cn": "限期试行"
+        }
+      ],
+      "checklist": [
+        "开头明确回应题目要求并说明立场",
+        "每个主体段有清楚的论点和具体例子",
+        "比较双方观点、限制或利弊时保持论证连贯",
+        "结尾概括已有论证，复查指代、搭配和语法"
+      ],
+      "target": 250,
+      "wordCount": 230
+    },
+    {
+      "id": "local-history",
+      "name": "讨论双方 · 学校应该多教本地史还是世界史",
+      "exam": "IELTS Task 2",
+      "type": "讨论双方",
+      "structure": [
+        {
+          "name": "开头",
+          "detail": "并列双方并给出自己的结论"
+        },
+        {
+          "name": "主体一",
+          "detail": "解释本地视角为何有价值"
+        },
+        {
+          "name": "主体二",
+          "detail": "说明全球视角并给出衔接方式"
+        },
+        {
+          "name": "结尾",
+          "detail": "重申分配教学时间的原则"
+        }
+      ],
+      "outline": "并列双方并给出自己的结论 → 解释本地视角为何有价值 → 说明全球视角并给出衔接方式 → 重申分配教学时间的原则",
+      "sentenceFrames": [
+        {
+          "section": "开头",
+          "text": "While some argue for ____, others favour ____. In my view, ____."
+        },
+        {
+          "section": "主体一",
+          "text": "A case for teaching ____ is that students can ____."
+        },
+        {
+          "section": "主体二",
+          "text": "Studying ____ helps learners understand wider patterns such as ____."
+        },
+        {
+          "section": "结尾",
+          "text": "A curriculum that connects ____ with ____ can ____."
+        }
+      ],
+      "sampleEssay": "School timetables leave limited room for history, which raises the question of whether students should spend more time on their own region or on global events. Both approaches offer educational value. I favour a curriculum that introduces historical methods through nearby examples and then applies those methods to wider developments.\n\nSupporters of local history argue that familiar places make the past easier to investigate. A class studying the growth of its town could compare old street maps with current ones and interview residents who remember when a railway station closed. This gives students experience of working with evidence they can find themselves. Lessons can also help them understand why buildings or places matter to different groups in the community.\n\nWorld history offers a perspective that a single town or country cannot provide. A study of trade, for example, can show that changes in local factories sometimes depend on technology, labour and consumer demand across several continents. Looking at different regions also helps students see that one explanation may fit a particular period without applying everywhere.\n\nSchools can connect these aims within a single unit. A project about a local market might begin with records of the goods once sold there and then trace how suppliers and trading routes changed. Students could then compare their findings with records from another town and explain why similar trading changes produced different results in the two places. This structure gives students a familiar starting point while developing the broader perspective they need to explain change.",
+      "usefulPhrases": [
+        {
+          "phrase": "leave limited room for",
+          "cn": "为……留下的空间有限"
+        },
+        {
+          "phrase": "educational value",
+          "cn": "教育价值"
+        },
+        {
+          "phrase": "apply methods to",
+          "cn": "将方法应用到……"
+        },
+        {
+          "phrase": "work with evidence",
+          "cn": "运用证据"
+        },
+        {
+          "phrase": "offer a wider perspective",
+          "cn": "提供更广阔的视角"
+        },
+        {
+          "phrase": "consumer demand",
+          "cn": "消费者需求"
+        },
+        {
+          "phrase": "suit a particular period",
+          "cn": "适用于某一时期"
+        },
+        {
+          "phrase": "trace how something changed",
+          "cn": "追溯某事如何变化"
+        }
+      ],
+      "checklist": [
+        "开头明确回应题目要求并说明立场",
+        "每个主体段有清楚的论点和具体例子",
+        "比较双方观点、限制或利弊时保持论证连贯",
+        "结尾概括已有论证，复查指代、搭配和语法"
+      ],
+      "target": 250,
+      "wordCount": 227
+    },
+    {
+      "id": "bike-sharing",
+      "name": "利弊类 · 共享单车的利弊",
+      "exam": "IELTS Task 2",
+      "type": "利弊类",
+      "structure": [
+        {
+          "name": "开头",
+          "detail": "界定政策及讨论角度"
+        },
+        {
+          "name": "主体一",
+          "detail": "解释出行收益与受益者"
+        },
+        {
+          "name": "主体二",
+          "detail": "解释成本和运行风险"
+        },
+        {
+          "name": "结尾",
+          "detail": "综合收益及实施条件"
+        }
+      ],
+      "outline": "界定政策及讨论角度 → 解释出行收益与受益者 → 解释成本和运行风险 → 综合收益及实施条件",
+      "sentenceFrames": [
+        {
+          "section": "开头",
+          "text": "The spread of ____ offers benefits for ____, although it also creates ____."
+        },
+        {
+          "section": "主体一",
+          "text": "One advantage is that ____ can make it easier for ____ to ____."
+        },
+        {
+          "section": "主体二",
+          "text": "A major drawback arises when ____, particularly in ____."
+        },
+        {
+          "section": "结尾",
+          "text": "The overall value of ____ depends on ____."
+        }
+      ],
+      "sampleEssay": "Shared bicycles allow residents and visitors to hire a bike for a short journey and return it near their destination. These schemes can make urban transport more flexible. They also create costs and practical problems that a city needs to consider in advance.\n\nOne advantage is that a short bicycle trip can connect passengers with a rail station that is slightly too far away to reach on foot. This makes public transport more useful for homes and workplaces beyond the immediate station area. Shared bicycles also give occasional riders access to a bike without the cost of buying and storing one. In districts with safe cycle lanes, some short car trips may consequently become unnecessary.\n\nThe benefits are harder to deliver when bicycles are unevenly distributed. Commuters tend to travel in the same direction at certain times, so one station can fill up while another runs out of bikes. Moving bikes between stations requires staff and vehicles. Parking can also become a problem when riders leave bikes on narrow pavements, where they can block people using wheelchairs or pushing prams. Usage data can reveal where extra bikes are needed, but collecting and interpreting those data also takes staff time and adds to the operating costs. The city may need to pay for designated parking areas and enforce parking rules.\n\nOn balance, bike sharing can improve access to transport when it is treated as part of the wider network. Its value depends on safe routes, reliable bike availability and parking that keeps pavements clear.",
+      "usefulPhrases": [
+        {
+          "phrase": "return it near their destination",
+          "cn": "在目的地附近归还"
+        },
+        {
+          "phrase": "flexible urban transport",
+          "cn": "灵活的城市交通"
+        },
+        {
+          "phrase": "reach on foot",
+          "cn": "步行到达"
+        },
+        {
+          "phrase": "beyond the immediate area",
+          "cn": "超出附近区域"
+        },
+        {
+          "phrase": "unevenly distributed",
+          "cn": "分布不均"
+        },
+        {
+          "phrase": "run out of bikes",
+          "cn": "没有车可用"
+        },
+        {
+          "phrase": "designated parking areas",
+          "cn": "指定停车区"
+        },
+        {
+          "phrase": "keep pavements clear",
+          "cn": "保持人行道畅通"
+        }
+      ],
+      "checklist": [
+        "开头明确回应题目要求并说明立场",
+        "每个主体段有清楚的论点和具体例子",
+        "比较双方观点、限制或利弊时保持论证连贯",
+        "结尾概括已有论证，复查指代、搭配和语法"
+      ],
+      "target": 250,
+      "wordCount": 228
+    },
+    {
+      "id": "courtyard-map-speech",
+      "name": "图表作文 / 应用文（地图变化演讲稿） · 校园庭院改造",
+      "exam": "CET-4/6",
+      "type": "图表作文 / 应用文（地图变化演讲稿）",
+      "structure": [
+        {
+          "name": "开场",
+          "detail": "向听众问候并交代对照地图的目的"
+        },
+        {
+          "name": "主体",
+          "detail": "按方位描述改造前后及其用途"
+        },
+        {
+          "name": "结尾",
+          "detail": "邀请听众体验并说明反馈方式"
+        }
+      ],
+      "outline": "向听众问候并交代对照地图的目的 → 按方位描述改造前后及其用途 → 邀请听众体验并说明反馈方式",
+      "sentenceFrames": [
+        {
+          "section": "开场",
+          "text": "Welcome to ____. Let me show you what has changed since ____."
+        },
+        {
+          "section": "主体",
+          "text": "On the ____ side, ____ has been replaced by ____."
+        },
+        {
+          "section": "结尾",
+          "text": "I invite you to try ____ and share your suggestions by ____."
+        }
+      ],
+      "sampleEssay": "Good afternoon, everyone. Thank you for joining us to open the redesigned campus courtyard. The two maps on this board show how we have made room for both movement and study.\n\nThe west gate is still in the same place, but the narrow path from it has been widened all the way to the library. This should make it easier for students going in opposite directions to pass one another. On the eastern side, sheltered study tables now stand where there was an unused lawn. They will be available for small group meetings even on rainy days. The bicycle racks that used to occupy the southern side have been moved to the entrances of the residence halls, where many riders begin their journeys.\n\nPlease take a few minutes to walk through the courtyard today. If you find a spot that still feels crowded, mark it on the map beside the gate. The student council will use those comments when it reviews the new layout next month.",
+      "usefulPhrases": [
+        {
+          "phrase": "make room for",
+          "cn": "为……腾出空间"
+        },
+        {
+          "phrase": "stand where there was",
+          "cn": "坐落在原来是……的地方"
+        },
+        {
+          "phrase": "all the way to",
+          "cn": "一直延伸到"
+        },
+        {
+          "phrase": "go in opposite directions",
+          "cn": "朝相反方向走"
+        },
+        {
+          "phrase": "sheltered study tables",
+          "cn": "有遮蔽的学习桌"
+        },
+        {
+          "phrase": "used to occupy",
+          "cn": "过去占用"
+        },
+        {
+          "phrase": "mark it on the map",
+          "cn": "在地图上标出位置"
+        },
+        {
+          "phrase": "review the new layout",
+          "cn": "评估新的布局"
+        }
+      ],
+      "checklist": [
+        "开场问候并说明发言目的",
+        "用方位和改造前后对照复原两张地图",
+        "用现在完成时或过去时准确描述变化",
+        "给听众清晰可行的参与方式"
+      ],
+      "target": 150,
+      "wordCount": 166
+    },
+    {
+      "id": "workshop-mixed-chart",
+      "name": "混合图 · 工作坊报名与实际出席",
+      "exam": "IELTS Task 1",
+      "type": "混合图",
+      "structure": [
+        {
+          "name": "引言",
+          "detail": "改述两种图表各自呈现的指标"
+        },
+        {
+          "name": "概述",
+          "detail": "指出总量趋势与分组比率的相反变化"
+        },
+        {
+          "name": "细节一",
+          "detail": "比较折线的起点、终点与每段增量"
+        },
+        {
+          "name": "细节二",
+          "detail": "比较两种报名方式的到场率并量化差距"
+        }
+      ],
+      "outline": "改述两种图表各自呈现的指标 → 指出总量趋势与分组比率的相反变化 → 比较折线的起点、终点与每段增量 → 比较两种报名方式的到场率并量化差距",
+      "sentenceFrames": [
+        {
+          "section": "引言",
+          "text": "The line chart tracks ____, while the table compares ____."
+        },
+        {
+          "section": "概述",
+          "text": "Overall, ____ increased, whereas the rate for ____ fell."
+        },
+        {
+          "section": "细节一",
+          "text": "The figure rose from ____ to ____, an increase of ____."
+        },
+        {
+          "section": "细节二",
+          "text": "The gap between ____ and ____ widened to ____ percentage points."
+        }
+      ],
+      "sampleEssay": "The line chart records the number of registrations for a workshop series from April to June. The accompanying table shows what percentage of registrants attended, with separate figures for online and in-person bookings.\n\nOverall, registrations increased steadily over the period. Attendance rates followed different paths according to how people registered. The rate among online registrants declined, while the rate among those who booked in person rose slightly. In-person bookings had the higher attendance rate in all three months.\n\nThe series attracted 120 registrations in April. This figure increased by 40 in May, reaching 160, and rose by another 40 to 200 in June. The final total was therefore about two thirds higher than the initial figure, with equal numerical increases in the two intervals.\n\nIn April, 75 per cent of online registrants attended, compared with 80 per cent of those who signed up in person. In May, the online figure fell to 70 per cent, while its in-person counterpart edged up to 82 per cent. The divergence was greatest in June, when online attendance dropped a further ten percentage points to 60 per cent and the in-person rate reached 85 per cent. By the end of the period, the gap had grown from five percentage points to twenty-five.",
+      "usefulPhrases": [
+        {
+          "phrase": "the accompanying table",
+          "cn": "配套表格"
+        },
+        {
+          "phrase": "what percentage of registrants attended",
+          "cn": "报名者中实际出席的比例"
+        },
+        {
+          "phrase": "follow different paths",
+          "cn": "呈现不同走势"
+        },
+        {
+          "phrase": "its in-person counterpart",
+          "cn": "对应的现场报名数据"
+        },
+        {
+          "phrase": "edge up to",
+          "cn": "小幅升至"
+        },
+        {
+          "phrase": "a further ten percentage points",
+          "cn": "再变化十个百分点"
+        },
+        {
+          "phrase": "the divergence was greatest",
+          "cn": "差距最大"
+        },
+        {
+          "phrase": "equal numerical increases",
+          "cn": "数值增量相同"
+        }
+      ],
+      "checklist": [
+        "概述覆盖两种图表的主要趋势",
+        "区分登记总量、到场率与百分点",
+        "比较两种登记方式的变化及差距",
+        "避免推算题面没有给出的分组人数"
+      ],
+      "target": 200,
+      "wordCount": 208
+    },
+    {
+      "id": "unclaimed-repairs",
+      "name": "原因解决类 · 维修店滞留物品",
+      "exam": "IELTS Task 2",
+      "type": "原因解决类",
+      "structure": [
+        {
+          "name": "引言",
+          "detail": "界定问题并概括原因与措施"
+        },
+        {
+          "name": "原因段",
+          "detail": "分析费用预期与取件障碍的作用"
+        },
+        {
+          "name": "措施段",
+          "detail": "提出对症措施并说明执行方式"
+        },
+        {
+          "name": "结尾",
+          "detail": "概括措施如何降低弃领概率"
+        }
+      ],
+      "outline": "界定问题并概括原因与措施 → 分析费用预期与取件障碍的作用 → 提出对症措施并说明执行方式 → 概括措施如何降低弃领概率",
+      "sentenceFrames": [
+        {
+          "section": "引言",
+          "text": "The rise in ____ can be traced to ____, and it could be addressed by ____."
+        },
+        {
+          "section": "原因段",
+          "text": "One reason items are left behind is that ____."
+        },
+        {
+          "section": "措施段",
+          "text": "Shops could address this by ____ before ____."
+        },
+        {
+          "section": "结尾",
+          "text": "Together, these measures would make it easier for customers to ____."
+        }
+      ],
+      "sampleEssay": "Repair shops sometimes finish work on goods that their owners never collect. Uncertainty about the final bill and difficulty arranging collection can both contribute to this problem. Shops can address these causes by confirming costs in advance and making collection more flexible.\n\nCustomers often bring in a broken item before knowing whether it is worth repairing. When the eventual bill approaches the price of a replacement, some may avoid returning to the shop. Others intend to collect their property but cannot do so during opening hours. A commuter who dropped off a lamp on a day off, for instance, may struggle to return before the shop closes. A single notice sent weeks later can also be easy to overlook.\n\nShops could agree a maximum price with each customer and seek fresh approval before exceeding it. This gives customers a chance to decline expensive work before labour and materials have been used. Once a repair is complete, a reminder should give the balance due and offer a choice of collection times. Small businesses that cannot open late every day could set aside one evening a week for collections. Where appropriate, customers could also authorise a friend to pick up the item.\n\nThe aim is to make the commitment clear when the item is dropped off and to make it easy to keep once the work is done. Price approval reduces the chance of an unexpected bill, while reminders and flexible collection address the practical reasons why repaired goods are left behind. Together, these measures can reduce the amount of stock that shops have to store.",
+      "usefulPhrases": [
+        {
+          "phrase": "arrange collection",
+          "cn": "安排取件"
+        },
+        {
+          "phrase": "approach the price of a replacement",
+          "cn": "接近替代品的价格"
+        },
+        {
+          "phrase": "seek fresh approval",
+          "cn": "重新征得同意"
+        },
+        {
+          "phrase": "decline expensive work",
+          "cn": "拒绝费用过高的维修"
+        },
+        {
+          "phrase": "the balance due",
+          "cn": "应付余款"
+        },
+        {
+          "phrase": "set aside one evening",
+          "cn": "留出一个晚上"
+        },
+        {
+          "phrase": "authorise a friend to",
+          "cn": "授权朋友做……"
+        },
+        {
+          "phrase": "address the practical reasons",
+          "cn": "针对实际障碍采取措施"
+        }
+      ],
+      "checklist": [
+        "同时回答成因和解决办法",
+        "为每个原因解释具体机制",
+        "用可执行的措施回应所列原因",
+        "结尾概括方案的预期效果"
+      ],
+      "target": 250,
+      "wordCount": 264
+    }
+  ],
+  "prompts": [
+    {
+      "id": "campus-volunteering",
+      "templateId": "campus-volunteering",
+      "title": "大学是否应鼓励志愿服务",
+      "prompt": "Should colleges encourage students to volunteer? Give your opinion and support it with reasons."
+    },
+    {
+      "id": "food-waste",
+      "templateId": "food-waste",
+      "title": "校园食物浪费",
+      "prompt": "Why is food wasted in campus canteens? Suggest two practical ways to reduce waste."
+    },
+    {
+      "id": "travel-survey",
+      "templateId": "travel-survey",
+      "title": "通勤方式调查",
+      "prompt": "In 2022 and 2025, a campus survey reported cycling at 12% and 24%, bus travel at 38% and 33%, walking at 34% and 31%, and driving at 16% and 12%. Describe the changes and suggest a possible explanation."
+    },
+    {
+      "id": "request-letter",
+      "templateId": "request-letter",
+      "title": "申请延长阅览室开放时间",
+      "prompt": "Write to your library manager to request longer opening hours during exam week. Explain the need and suggest a workable arrangement."
+    },
+    {
+      "id": "book-swap",
+      "templateId": "book-swap",
+      "title": "校园图书交换活动",
+      "prompt": "Write a notice inviting students to a book swap. Include the time, venue, participation rules, and a call for volunteers."
+    },
+    {
+      "id": "museum-lines",
+      "templateId": "museum-lines",
+      "title": "两座博物馆年访客量",
+      "prompt": "Annual visitors in thousands for 2019–2023: City Museum 120, 80, 95, 130, 160; Maritime Museum 90, 60, 75, 100, 110. Summarise and compare the key features."
+    },
+    {
+      "id": "commute-bars",
+      "templateId": "commute-bars",
+      "title": "三区居民通勤方式",
+      "prompt": "Percentages by mode (walking, cycling, bus, car): North 20, 10, 40, 30; Central 35, 15, 35, 15; South 10, 20, 25, 45. Summarise and compare."
+    },
+    {
+      "id": "library-pies",
+      "templateId": "library-pies",
+      "title": "图书馆预算结构",
+      "prompt": "Budget shares (collections, staff, digital services, events): 2020 35%, 40%, 15%, 10%; 2025 25%, 38%, 27%, 10%. Summarise changes."
+    },
+    {
+      "id": "energy-tables",
+      "templateId": "energy-tables",
+      "title": "四国可再生电力占比",
+      "prompt": "Share of electricity supplied by renewables in four fictional countries: Arden 22% and 37%, Bellin 48% and 55%, Cuvera 15% and 33%, Dalen 30% and 29%, in 2015 and 2025 respectively. Summarise and compare."
+    },
+    {
+      "id": "rainwater-process",
+      "templateId": "rainwater-process",
+      "title": "社区花园雨水利用流程",
+      "prompt": "Describe a system that collects rain on the shed roof, directs it through gutters, screens out leaves, stores water in a tank, sends overflow to a gravel bed, and uses a hose to irrigate plants."
+    },
+    {
+      "id": "four-day",
+      "templateId": "four-day",
+      "title": "四天工作制",
+      "prompt": "Some people think employers should adopt a four-day working week. To what extent do you agree or disagree?"
+    },
+    {
+      "id": "local-history",
+      "templateId": "local-history",
+      "title": "学校应该多教本地史还是世界史",
+      "prompt": "Some people say schools should prioritise local history, while others think world history is more important. Discuss both views and give your opinion."
+    },
+    {
+      "id": "bike-sharing",
+      "templateId": "bike-sharing",
+      "title": "共享单车的利弊",
+      "prompt": "More cities are introducing shared bicycles. What are the advantages and disadvantages of these schemes?"
+    },
+    {
+      "id": "study-spaces",
+      "templateId": "campus-volunteering",
+      "title": "校园应不应该保留无手机自习室？",
+      "prompt": "Should colleges offer phone-free study rooms? State your opinion and explain how such a room might work."
+    },
+    {
+      "id": "travel-letter",
+      "templateId": "request-letter",
+      "title": "向国际学生办公室询问周末出行",
+      "prompt": "Write to the international student office to ask about a weekend trip. Explain your reasons for joining and ask about transport and accessibility."
+    },
+    {
+      "id": "repair-cafe",
+      "templateId": "book-swap",
+      "title": "发布校园修理咖啡馆活动通知",
+      "prompt": "Write a notice for a campus repair café. Include the event location and times, describe what students may bring, and invite volunteers to help."
+    },
+    {
+      "id": "online-books",
+      "templateId": "four-day",
+      "title": "大学图书馆应优先采购电子书吗？",
+      "prompt": "University libraries should prioritise electronic books over printed books. To what extent do you agree or disagree?"
+    },
+    {
+      "id": "night-buses",
+      "templateId": "bike-sharing",
+      "title": "夜间公交服务的利弊",
+      "prompt": "Some cities run buses throughout the night. What are the advantages and disadvantages of providing this service?"
+    },
+    {
+      "id": "courtyard-map-speech",
+      "templateId": "courtyard-map-speech",
+      "title": "校园庭院改造",
+      "prompt": "Give a short speech at the opening of the redesigned campus courtyard. Compare these campus map notes, explain how students can use the new space, and invite them to take part. Before: west gate led to a narrow path; unused lawn on the east side; bicycle racks on the south side. After: west gate unchanged; a wider path leads to the library; sheltered study tables replace the eastern lawn; bicycle racks are beside the entrances to the residence halls."
+    },
+    {
+      "id": "workshop-mixed-chart",
+      "templateId": "workshop-mixed-chart",
+      "title": "工作坊报名与实际出席",
+      "prompt": "The line chart shows workshop registrations in three months: April 120, May 160, June 200. The table gives the share of registrants who attended, by booking method. Online: 75%, 70%, 60%. In person: 80%, 82%, 85%. Summarise the main features and make comparisons where relevant."
+    },
+    {
+      "id": "unclaimed-repairs",
+      "templateId": "unclaimed-repairs",
+      "title": "维修店滞留物品",
+      "prompt": "In some towns, repair shops have increasing numbers of items that customers fail to collect after repair. Why does this happen, and what can shops do to solve the problem?"
+    }
+  ]
+}

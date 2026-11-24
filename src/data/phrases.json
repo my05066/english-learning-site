@@ -1,0 +1,482 @@
+[
+  {
+    "id": "phrase-01",
+    "group": "日常寒暄",
+    "phrase": "How have you been?",
+    "cn": "你最近怎么样？",
+    "example": "It's been months since we last met. How have you been?",
+    "exampleCn": "我们好几个月没见了。你最近怎么样？"
+  },
+  {
+    "id": "phrase-02",
+    "group": "日常寒暄",
+    "phrase": "Long time no see.",
+    "cn": "好久不见。",
+    "example": "Long time no see! Are you still working at the library?",
+    "exampleCn": "好久不见！你还在图书馆工作吗？"
+  },
+  {
+    "id": "phrase-03",
+    "group": "日常寒暄",
+    "phrase": "Can't complain.",
+    "cn": "还不错。",
+    "example": "Can't complain. I finally have a free weekend.",
+    "exampleCn": "还不错，我终于周末有空了。"
+  },
+  {
+    "id": "phrase-04",
+    "group": "日常寒暄",
+    "phrase": "Make yourself at home.",
+    "cn": "别客气，就像在自己家一样。",
+    "example": "Make yourself at home while I put the kettle on.",
+    "exampleCn": "我去烧壶水，你随意坐。"
+  },
+  {
+    "id": "phrase-05",
+    "group": "日常寒暄",
+    "phrase": "Thanks for having me.",
+    "cn": "谢谢你的邀请和招待。",
+    "example": "Thanks for having me. Dinner was lovely.",
+    "exampleCn": "谢谢你的招待，晚餐很棒。"
+  },
+  {
+    "id": "phrase-06",
+    "group": "日常寒暄",
+    "phrase": "Let's catch up soon.",
+    "cn": "我们找时间聊聊。",
+    "example": "Let's catch up soon over coffee.",
+    "exampleCn": "我们找时间喝杯咖啡聊聊。"
+  },
+  {
+    "id": "phrase-07",
+    "group": "日常寒暄",
+    "phrase": "I'll let you get back to it.",
+    "cn": "我就不打扰你忙了。",
+    "example": "You look busy, so I'll let you get back to it.",
+    "exampleCn": "你看起来挺忙的，我就不打扰你了。"
+  },
+  {
+    "id": "phrase-08",
+    "group": "日常寒暄",
+    "phrase": "Take care.",
+    "cn": "保重。",
+    "example": "Take care, and text me when you get home.",
+    "exampleCn": "保重，到家给我发条消息。"
+  },
+  {
+    "id": "phrase-09",
+    "group": "课堂学习",
+    "phrase": "Could you go over that again?",
+    "cn": "能把刚才的内容再讲一遍吗？",
+    "example": "Could you go over that again before we try the exercise?",
+    "exampleCn": "我们做练习前，您能再讲一遍吗？"
+  },
+  {
+    "id": "phrase-10",
+    "group": "课堂学习",
+    "phrase": "I'm not quite following.",
+    "cn": "我有点没听懂。",
+    "example": "I'm not quite following. Why did we divide by three?",
+    "exampleCn": "我有点没听懂，为什么要除以三？"
+  },
+  {
+    "id": "phrase-11",
+    "group": "课堂学习",
+    "phrase": "What does this refer to?",
+    "cn": "这个指的是什么？",
+    "example": "What does this refer to in the final paragraph?",
+    "exampleCn": "最后一段里这个指的是什么？"
+  },
+  {
+    "id": "phrase-12",
+    "group": "课堂学习",
+    "phrase": "Hand in an assignment.",
+    "cn": "交作业。",
+    "example": "Everyone needs to hand in an assignment by Friday.",
+    "exampleCn": "每个人都要在周五之前交一份作业。"
+  },
+  {
+    "id": "phrase-13",
+    "group": "课堂学习",
+    "phrase": "Take notes.",
+    "cn": "记笔记。",
+    "example": "I take notes by hand because it helps me remember.",
+    "exampleCn": "我用手记笔记，因为这样容易记住。"
+  },
+  {
+    "id": "phrase-14",
+    "group": "课堂学习",
+    "phrase": "Keep up with the reading.",
+    "cn": "跟上阅读进度。",
+    "example": "I use the bus ride to keep up with the reading.",
+    "exampleCn": "我利用坐公交的时间跟上阅读进度。"
+  },
+  {
+    "id": "phrase-15",
+    "group": "课堂学习",
+    "phrase": "Work in pairs.",
+    "cn": "两人一组。",
+    "example": "Work in pairs and compare your first answers.",
+    "exampleCn": "两人一组，对照你们最初的答案。"
+  },
+  {
+    "id": "phrase-16",
+    "group": "课堂学习",
+    "phrase": "Can I get some feedback?",
+    "cn": "能给我一些反馈吗？",
+    "example": "Can I get some feedback on my opening paragraph?",
+    "exampleCn": "能给我的开头段一些反馈吗？"
+  },
+  {
+    "id": "phrase-17",
+    "group": "旅行",
+    "phrase": "Is this seat taken?",
+    "cn": "这个座位有人吗？",
+    "example": "Excuse me, is this seat taken?",
+    "exampleCn": "打扰一下，这个座位有人吗？"
+  },
+  {
+    "id": "phrase-18",
+    "group": "旅行",
+    "phrase": "Where do I change trains?",
+    "cn": "我在哪儿换乘？",
+    "example": "Where do I change trains for Brighton?",
+    "exampleCn": "去布莱顿我在哪儿换乘？"
+  },
+  {
+    "id": "phrase-19",
+    "group": "旅行",
+    "phrase": "How far is it on foot?",
+    "cn": "走路有多远？",
+    "example": "How far is it on foot from here to the museum?",
+    "exampleCn": "从这儿走到博物馆有多远？"
+  },
+  {
+    "id": "phrase-20",
+    "group": "旅行",
+    "phrase": "I'd like to check in.",
+    "cn": "我想办理入住。",
+    "example": "I'd like to check in. The booking is under Chen.",
+    "exampleCn": "我想办理入住，预订用的是陈这个姓。"
+  },
+  {
+    "id": "phrase-21",
+    "group": "旅行",
+    "phrase": "Could you hold my luggage?",
+    "cn": "可以帮我寄存行李吗？",
+    "example": "Could you hold my luggage until this afternoon?",
+    "exampleCn": "可以把我的行李寄存到今天下午吗？"
+  },
+  {
+    "id": "phrase-22",
+    "group": "旅行",
+    "phrase": "Which way is the exit?",
+    "cn": "出口往哪边走？",
+    "example": "Which way is the exit to the taxi rank?",
+    "exampleCn": "去出租车乘车点的出口往哪边走？"
+  },
+  {
+    "id": "phrase-23",
+    "group": "旅行",
+    "phrase": "Is the service running on time?",
+    "cn": "这班车准点吗？",
+    "example": "Is the service running on time despite the snow?",
+    "exampleCn": "下雪了，这班车还准点吗？"
+  },
+  {
+    "id": "phrase-24",
+    "group": "旅行",
+    "phrase": "Could I get the bill, please?",
+    "cn": "麻烦结账。",
+    "example": "Could I get the bill, please? We're in a bit of a hurry.",
+    "exampleCn": "麻烦结账，我们有点赶时间。"
+  },
+  {
+    "id": "phrase-25",
+    "group": "职场",
+    "phrase": "Keep me posted.",
+    "cn": "有进展随时告诉我。",
+    "example": "Keep me posted if the delivery date changes.",
+    "exampleCn": "发货日期变了就随时告诉我。"
+  },
+  {
+    "id": "phrase-26",
+    "group": "职场",
+    "phrase": "I'll look into it.",
+    "cn": "我会查清楚。",
+    "example": "The numbers don't match, so I'll look into it.",
+    "exampleCn": "数字对不上，我会查清楚。"
+  },
+  {
+    "id": "phrase-27",
+    "group": "职场",
+    "phrase": "Let's touch base tomorrow.",
+    "cn": "我们明天简单沟通一下。",
+    "example": "Let's touch base tomorrow after the client call.",
+    "exampleCn": "客户电话结束后，我们明天简单沟通一下。"
+  },
+  {
+    "id": "phrase-28",
+    "group": "职场",
+    "phrase": "Bring someone up to speed.",
+    "cn": "让某人了解最新情况。",
+    "example": "Can you bring me up to speed before the meeting?",
+    "exampleCn": "开会前能跟我说一下最新情况吗？"
+  },
+  {
+    "id": "phrase-29",
+    "group": "职场",
+    "phrase": "Run something by someone.",
+    "cn": "征求某人对某事的意见。",
+    "example": "I'd like to run the new design by you this afternoon.",
+    "exampleCn": "今天下午我想听听你对新设计的看法。"
+  },
+  {
+    "id": "phrase-30",
+    "group": "职场",
+    "phrase": "Meet a deadline.",
+    "cn": "按期完成。",
+    "example": "We can meet the deadline if we finish testing today.",
+    "exampleCn": "如果今天测完，我们就能按期完成。"
+  },
+  {
+    "id": "phrase-31",
+    "group": "职场",
+    "phrase": "Follow up on something.",
+    "cn": "跟进某事。",
+    "example": "I'll follow up on the invoice next week.",
+    "exampleCn": "我下周跟进这张发票。"
+  },
+  {
+    "id": "phrase-32",
+    "group": "职场",
+    "phrase": "We're on the same page.",
+    "cn": "我们的理解一致。",
+    "example": "Let's confirm the dates so we're on the same page.",
+    "exampleCn": "确认一下日期，确保我们的理解一致。"
+  },
+  {
+    "id": "phrase-33",
+    "group": "表达观点",
+    "phrase": "From my point of view.",
+    "cn": "在我看来。",
+    "example": "From my point of view, the later start makes more sense.",
+    "exampleCn": "在我看来，晚一点开始更合理。"
+  },
+  {
+    "id": "phrase-34",
+    "group": "表达观点",
+    "phrase": "I see your point.",
+    "cn": "我懂你的意思。",
+    "example": "I see your point about the cost of repairs.",
+    "exampleCn": "我懂你对维修费用的顾虑。"
+  },
+  {
+    "id": "phrase-35",
+    "group": "表达观点",
+    "phrase": "I'd go a step further.",
+    "cn": "我还想进一步说。",
+    "example": "I'd go a step further and make the bus free on Sundays.",
+    "exampleCn": "我还想进一步建议，周日乘公交免费。"
+  },
+  {
+    "id": "phrase-36",
+    "group": "表达观点",
+    "phrase": "I'm on the fence.",
+    "cn": "我还没拿定主意。",
+    "example": "I'm on the fence about moving closer to work.",
+    "exampleCn": "要不要搬到离公司更近的地方，我还没拿定主意。"
+  },
+  {
+    "id": "phrase-37",
+    "group": "表达观点",
+    "phrase": "It depends on the context.",
+    "cn": "这取决于具体情境。",
+    "example": "It depends on the context. The same joke won't work everywhere.",
+    "exampleCn": "这取决于具体情境。同一个笑话不是在哪儿都管用。"
+  },
+  {
+    "id": "phrase-38",
+    "group": "表达观点",
+    "phrase": "That's a fair point.",
+    "cn": "这话有道理。",
+    "example": "That's a fair point. We should ask the people who live nearby.",
+    "exampleCn": "这话有道理，我们应该问问附近居民。"
+  },
+  {
+    "id": "phrase-39",
+    "group": "表达观点",
+    "phrase": "On balance.",
+    "cn": "总的来说。",
+    "example": "On balance, the benefits outweigh the extra cost.",
+    "exampleCn": "总的来说，收益大于额外成本。"
+  },
+  {
+    "id": "phrase-40",
+    "group": "表达观点",
+    "phrase": "Put it another way.",
+    "cn": "换句话说。",
+    "example": "To put it another way, we need more time and fewer meetings.",
+    "exampleCn": "换句话说，我们需要更多时间和更少的会议。"
+  },
+  {
+    "id": "phrase-41",
+    "group": "购物消费",
+    "phrase": "Do you have this in a smaller size?",
+    "cn": "这款有小一号的吗？",
+    "example": "This sleeve covers my hand. Do you have this in a smaller size?",
+    "exampleCn": "这袖子盖住我的手了。这款有小一号的吗？"
+  },
+  {
+    "id": "phrase-42",
+    "group": "购物消费",
+    "phrase": "Could I try these on?",
+    "cn": "我可以试穿这双吗？",
+    "example": "The blue shoes look comfortable. Could I try these on?",
+    "exampleCn": "这双蓝鞋看着挺舒服。我可以试穿吗？"
+  },
+  {
+    "id": "phrase-43",
+    "group": "购物消费",
+    "phrase": "Is the discount already included?",
+    "cn": "这个价格已经打过折了吗？",
+    "example": "The tag says thirty pounds. Is the discount already included?",
+    "exampleCn": "标签上写着三十英镑。这个价格已经打过折了吗？"
+  },
+  {
+    "id": "phrase-44",
+    "group": "购物消费",
+    "phrase": "Can I exchange it at another branch?",
+    "cn": "我可以去另一家分店换货吗？",
+    "example": "I bought this scarf on a trip. Can I exchange it at another branch?",
+    "exampleCn": "我旅行时买了这条围巾。我可以去另一家分店换货吗？"
+  },
+  {
+    "id": "phrase-45",
+    "group": "购物消费",
+    "phrase": "Could you put these items on separate receipts?",
+    "cn": "可以把这几件商品分开开小票吗？",
+    "example": "The mugs are for work. Could you put these items on separate receipts?",
+    "exampleCn": "杯子是给单位买的。可以把这几件商品分开开小票吗？"
+  },
+  {
+    "id": "phrase-46",
+    "group": "购物消费",
+    "phrase": "Is there a charge for delivery?",
+    "cn": "送货要收费吗？",
+    "example": "The chair won't fit in my car. Is there a charge for delivery?",
+    "exampleCn": "椅子装不进我的车。送货要收费吗？"
+  },
+  {
+    "id": "phrase-47",
+    "group": "购物消费",
+    "phrase": "Do you sell these individually?",
+    "cn": "这些可以单买吗？",
+    "example": "I only need one of these hooks. Do you sell these individually?",
+    "exampleCn": "这种挂钩我只要一个。可以单买吗？"
+  },
+  {
+    "id": "phrase-48",
+    "group": "医院健康",
+    "phrase": "Is there an appointment available this afternoon?",
+    "cn": "今天下午还有号吗？",
+    "example": "I couldn't get through this morning. Is there an appointment available this afternoon?",
+    "exampleCn": "我早上没打通电话。今天下午还有号吗？"
+  },
+  {
+    "id": "phrase-49",
+    "group": "医院健康",
+    "phrase": "I've had this cough since Monday.",
+    "cn": "我从周一开始就一直咳嗽。",
+    "example": "I've had this cough since Monday, and it keeps me awake at night.",
+    "exampleCn": "我从周一开始就一直咳嗽，晚上咳得睡不着。"
+  },
+  {
+    "id": "phrase-50",
+    "group": "医院健康",
+    "phrase": "The pain comes and goes.",
+    "cn": "疼痛时有时无。",
+    "example": "The pain comes and goes, so I noted when it last started.",
+    "exampleCn": "疼痛时有时无，所以我记下了最近一次发作的时间。"
+  },
+  {
+    "id": "phrase-51",
+    "group": "医院健康",
+    "phrase": "Where do I check in for my appointment?",
+    "cn": "我应该到哪里报到？",
+    "example": "I'm here for an appointment on the second floor. Where do I check in for my appointment?",
+    "exampleCn": "我要去二楼看预约的门诊。我应该到哪里报到？"
+  },
+  {
+    "id": "phrase-52",
+    "group": "医院健康",
+    "phrase": "I may be allergic to this medication.",
+    "cn": "我可能对这种药过敏。",
+    "example": "I may be allergic to this medication, so I'd like to check my records with you.",
+    "exampleCn": "我可能对这种药过敏，想和您核对一下我的记录。"
+  },
+  {
+    "id": "phrase-53",
+    "group": "医院健康",
+    "phrase": "Could you write down the instructions for me?",
+    "cn": "能把医嘱写给我吗？",
+    "example": "I want to make sure I remember everything. Could you write down the instructions for me?",
+    "exampleCn": "我怕漏记。您能把医嘱写给我吗？"
+  },
+  {
+    "id": "phrase-54",
+    "group": "医院健康",
+    "phrase": "Do I need a follow-up appointment?",
+    "cn": "我需要预约复诊吗？",
+    "example": "Before I leave, could I check one thing? Do I need a follow-up appointment?",
+    "exampleCn": "走之前我想确认一件事。我需要预约复诊吗？"
+  },
+  {
+    "id": "phrase-55",
+    "group": "网络社交",
+    "phrase": "Could you send me the link in a private message?",
+    "cn": "你能私信把链接发给我吗？",
+    "example": "I can't see the link in the group chat. Could you send me the link in a private message?",
+    "exampleCn": "我在群聊里看不到链接。你能私信发给我吗？"
+  },
+  {
+    "id": "phrase-56",
+    "group": "网络社交",
+    "phrase": "Would you mind removing the tag?",
+    "cn": "你能把标记去掉吗？",
+    "example": "I'd prefer to keep my name off the photo. Would you mind removing the tag?",
+    "exampleCn": "我想让照片上别标出我的名字。你能把标记去掉吗？"
+  },
+  {
+    "id": "phrase-57",
+    "group": "网络社交",
+    "phrase": "I'll mute the chat until I finish work.",
+    "cn": "我会把群聊设为免打扰，直到忙完工作。",
+    "example": "I'll mute the chat until I finish work. If it's urgent, please call.",
+    "exampleCn": "我会把群聊设为免打扰，直到忙完工作。有急事请打电话。"
+  },
+  {
+    "id": "phrase-58",
+    "group": "网络社交",
+    "phrase": "Can everyone see this post?",
+    "cn": "所有人都能看到这条帖子吗？",
+    "example": "I meant to share the picture with friends. Can everyone see this post?",
+    "exampleCn": "我本来只想和朋友分享这张照片。所有人都能看到这条帖子吗？"
+  },
+  {
+    "id": "phrase-59",
+    "group": "网络社交",
+    "phrase": "My camera keeps freezing.",
+    "cn": "我的摄像头画面老是卡住。",
+    "example": "My camera keeps freezing, but I can still hear you.",
+    "exampleCn": "我的摄像头画面老是卡住，不过我还能听到你。"
+  },
+  {
+    "id": "phrase-60",
+    "group": "网络社交",
+    "phrase": "Let's pin the updated schedule.",
+    "cn": "我们把更新后的日程置顶吧。",
+    "example": "People are still asking about Saturday. Let's pin the updated schedule.",
+    "exampleCn": "大家还在问周六的安排。我们把更新后的日程置顶吧。"
+  }
+]

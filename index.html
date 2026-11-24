@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script>
+    try {
+      const preferences = JSON.parse(localStorage.getItem('english-corner-v1'))
+      if (preferences?.theme === 'dark') document.documentElement.dataset.theme = 'dark'
+    } catch {}
+  </script>
+  <meta name="theme-color" content="#0f766e">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <title>英语角 · English Corner</title>
+</head>
+<body>
+  <div id="app"></div>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

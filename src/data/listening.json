@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "market",
+    "level": "A2",
+    "topic": "日常",
+    "title": "A Morning at the Market",
+    "transcript": "On Saturday morning, Mia visits the street market. She speaks to a stallholder.\n“Good morning. Could I have four tomatoes and a bag of rice?”\n“Of course. Would you like to try an orange?”\n“Yes, please. That's lovely. I'll take six. I'm making lunch for a friend.”\n“Will you need any bread?”\n“Yes. Is the baker still here?”\n“He's here, but he's sold the last loaf. A fresh one will be ready at noon.”\n“Thank you. I'll sit by the gate and read my book until then.”\n“Enjoy your lunch!”",
+    "questions": [
+      {
+        "prompt": "Why is Mia shopping?",
+        "options": [
+          "To make lunch for a friend",
+          "To buy a book",
+          "To prepare for a trip",
+          "To open a market stand"
+        ],
+        "answer": 0,
+        "explanation": "Mia 在和摊主的对话中提到，她要给朋友做午饭。"
+      },
+      {
+        "prompt": "How many oranges does she buy?",
+        "options": [
+          "Four",
+          "Six",
+          "Two",
+          "Twelve"
+        ],
+        "answer": 1,
+        "explanation": "试吃后她买了六个橙子。"
+      },
+      {
+        "prompt": "What has sold out?",
+        "options": [
+          "Rice",
+          "Tomatoes",
+          "Bread",
+          "Oranges"
+        ],
+        "answer": 2,
+        "explanation": "摊主说面包师已经卖掉了最后一条面包。"
+      },
+      {
+        "prompt": "What does Mia do while waiting?",
+        "options": [
+          "She calls her friend",
+          "She tries more fruit",
+          "She goes home",
+          "She reads"
+        ],
+        "answer": 3,
+        "explanation": "她在市场门口附近读书。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "On ____ morning, Mia visits the street market.",
+        "answer": "Saturday",
+        "sentenceIndex": 0
+      },
+      {
+        "prompt": "Could I have four ____ and a bag of rice?",
+        "answer": "tomatoes",
+        "sentenceIndex": 3
+      },
+      {
+        "prompt": "Would you like to try an ____?",
+        "answer": "orange",
+        "sentenceIndex": 5
+      },
+      {
+        "prompt": "A fresh one will be ready at ____.",
+        "answer": "noon",
+        "sentenceIndex": 14
+      },
+      {
+        "prompt": "I'll sit by the ____ and read my book until then.",
+        "answer": "gate",
+        "sentenceIndex": 16
+      }
+    ]
+  },
+  {
+    "id": "bus",
+    "level": "A2",
+    "topic": "旅行",
+    "title": "The Right Bus",
+    "transcript": "Leo is visiting his aunt in a new town. At the train station, he needs to take a bus to her house. His phone has no battery, so he asks a woman at the ticket desk for help. She tells him to take bus number twelve and get off at Pine Street. The bus stop is across the road next to a blue shop. Leo buys a ticket from the driver. When he reaches Pine Street, he sees his aunt waiting outside a café. They go inside and order hot chocolate.",
+    "questions": [
+      {
+        "prompt": "Where does Leo ask for help?",
+        "options": [
+          "At the café",
+          "At the ticket desk",
+          "Inside the bus",
+          "At the blue shop"
+        ],
+        "answer": 1,
+        "explanation": "他在车站售票台向工作人员求助。"
+      },
+      {
+        "prompt": "Why can't Leo use his phone?",
+        "options": [
+          "He left it at home",
+          "He has no signal",
+          "It has no battery",
+          "The screen is broken"
+        ],
+        "answer": 2,
+        "explanation": "原文说手机没电了。"
+      },
+      {
+        "prompt": "Where should Leo get off?",
+        "options": [
+          "Market Street",
+          "The train station",
+          "The blue shop",
+          "Pine Street"
+        ],
+        "answer": 3,
+        "explanation": "工作人员让他在 Pine Street 下车。"
+      },
+      {
+        "prompt": "What does Leo order?",
+        "options": [
+          "Hot chocolate",
+          "Orange juice",
+          "Coffee",
+          "Tea"
+        ],
+        "answer": 0,
+        "explanation": "他和姑姑进咖啡馆点了热巧克力。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "Leo is visiting his ____ in a new town.",
+        "answer": "aunt",
+        "sentenceIndex": 0
+      },
+      {
+        "prompt": "His phone has no ____, so he asks a woman at the ticket desk for help.",
+        "answer": "battery",
+        "sentenceIndex": 2
+      },
+      {
+        "prompt": "She tells him to take bus number ____ and get off at Pine Street.",
+        "answer": "twelve",
+        "sentenceIndex": 3
+      },
+      {
+        "prompt": "The bus stop is across the road next to a ____ shop.",
+        "answer": "blue",
+        "sentenceIndex": 4
+      },
+      {
+        "prompt": "They go inside and order hot ____.",
+        "answer": "chocolate",
+        "sentenceIndex": 7
+      }
+    ]
+  },
+  {
+    "id": "class",
+    "level": "A2",
+    "topic": "校园",
+    "title": "The New Art Class",
+    "transcript": "On Tuesday, Nora goes to her first art class. She brings some pencils, but she forgets her paper. The teacher gives her a large white sheet and asks the students to draw a cup. Nora thinks the cup looks easy to draw. Then she notices that the handle is a difficult shape. A classmate tells her to look at the space inside the handle first. This helps her finish the picture. At the end of the class, she puts her drawing in her bag. She wants to show it to her brother.",
+    "questions": [
+      {
+        "prompt": "What did Nora forget?",
+        "options": [
+          "Her drawing",
+          "Her bag",
+          "Her paper",
+          "Her pencils"
+        ],
+        "answer": 2,
+        "explanation": "她带了铅笔，但忘记带纸。"
+      },
+      {
+        "prompt": "What do the students draw?",
+        "options": [
+          "A book",
+          "A pencil",
+          "A bag",
+          "A cup"
+        ],
+        "answer": 3,
+        "explanation": "老师让大家画一个杯子。"
+      },
+      {
+        "prompt": "Who gives Nora advice?",
+        "options": [
+          "A classmate",
+          "Her brother",
+          "The teacher",
+          "A friend from home"
+        ],
+        "answer": 0,
+        "explanation": "同学建议她先观察把手内侧的空间。"
+      },
+      {
+        "prompt": "Who will probably see the drawing after class?",
+        "options": [
+          "Her aunt",
+          "Her brother",
+          "The bus driver",
+          "The head teacher"
+        ],
+        "answer": 1,
+        "explanation": "她想把画拿给哥哥或弟弟看。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "On ____, Nora goes to her first art class.",
+        "answer": "Tuesday",
+        "sentenceIndex": 0
+      },
+      {
+        "prompt": "She brings some pencils, but she forgets her ____.",
+        "answer": "paper",
+        "sentenceIndex": 1
+      },
+      {
+        "prompt": "The teacher gives her a large white sheet and asks the students to draw a ____.",
+        "answer": "cup",
+        "sentenceIndex": 2
+      },
+      {
+        "prompt": "Then she notices that the ____ is a difficult shape.",
+        "answer": "handle",
+        "sentenceIndex": 4
+      },
+      {
+        "prompt": "She wants to show it to her ____.",
+        "answer": "brother",
+        "sentenceIndex": 8
+      }
+    ]
+  },
+  {
+    "id": "repair",
+    "level": "B1",
+    "topic": "社区",
+    "title": "The Repair Café",
+    "transcript": "On the first Sunday of every month, volunteers turn the back room of a library into a repair café. People bring broken household items instead of throwing them away. Last month Tariq took in a desk lamp that had stopped working. He expected to leave it there and collect it later, but a volunteer asked him to sit down and help. Together they checked the plug and found a loose wire. Tariq held the torch while the volunteer fixed it. When the lamp came on, he realised that the repair was simpler than he had imagined. Before leaving, he signed up to help with the next session. He cannot fix lamps on his own yet, but he can welcome visitors and record what they bring. The organiser says that keeping records helps them decide which tools to buy.",
+    "questions": [
+      {
+        "prompt": "How often does the café open?",
+        "options": [
+          "Every Sunday",
+          "Once a month",
+          "Twice a week",
+          "Once a year"
+        ],
+        "answer": 1,
+        "explanation": "活动在每月第一个周日开展。"
+      },
+      {
+        "prompt": "What surprised Tariq?",
+        "options": [
+          "The library was closed",
+          "The lamp was too old",
+          "He was asked to take part",
+          "He had to pay for a replacement"
+        ],
+        "answer": 2,
+        "explanation": "他本想稍后取回台灯，却被邀请一起维修。"
+      },
+      {
+        "prompt": "What caused the lamp problem?",
+        "options": [
+          "A missing switch",
+          "A broken shade",
+          "A dead battery",
+          "A loose wire"
+        ],
+        "answer": 3,
+        "explanation": "他们检查插头时发现电线松了。"
+      },
+      {
+        "prompt": "Why do the organisers record the items?",
+        "options": [
+          "To plan tool purchases",
+          "To contact the police",
+          "To price the repairs",
+          "To choose new visitors"
+        ],
+        "answer": 0,
+        "explanation": "记录可以帮助他们判断应采购哪些工具。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "On the first Sunday of every month, volunteers turn the back room of a ____ into a repair café.",
+        "answer": "library",
+        "sentenceIndex": 0
+      },
+      {
+        "prompt": "Last month Tariq took in a desk ____ that had stopped working.",
+        "answer": "lamp",
+        "sentenceIndex": 2
+      },
+      {
+        "prompt": "Together they checked the plug and found a loose ____.",
+        "answer": "wire",
+        "sentenceIndex": 4
+      },
+      {
+        "prompt": "Tariq held the ____ while the volunteer fixed it.",
+        "answer": "torch",
+        "sentenceIndex": 5
+      },
+      {
+        "prompt": "The organiser says that keeping ____ helps them decide which tools to buy.",
+        "answer": "records",
+        "sentenceIndex": 9
+      }
+    ]
+  },
+  {
+    "id": "walk",
+    "level": "B1",
+    "topic": "旅行",
+    "title": "A Walk with Two Plans",
+    "transcript": "A youth group planned a five kilometre walk along the coast for Friday afternoon. The guide checked the weather in the morning and saw that strong winds were coming. Instead of cancelling, she prepared a second route through a nearby forest. Before they set out, she asked everyone to carry water and put a warm layer in their bag. At the coast, the group could see waves reaching the path, so they chose the forest route. Some students were disappointed because they had hoped to photograph the sea. However, the forest had several clearings where they could stop for pictures. They also found a wooden sign describing the birds in the area. By the time they returned, most students agreed that having a second plan had made the day easier, and no one had needed to rush.",
+    "questions": [
+      {
+        "prompt": "Why did the guide prepare another route?",
+        "options": [
+          "The group was late",
+          "Strong winds were expected",
+          "The forest was closing",
+          "Students disliked the coast"
+        ],
+        "answer": 1,
+        "explanation": "早晨的天气预报说将有大风。"
+      },
+      {
+        "prompt": "What did the group see at the coast?",
+        "options": [
+          "Cars blocking the path",
+          "A damaged sign",
+          "Waves reaching the path",
+          "Birds on a bridge"
+        ],
+        "answer": 2,
+        "explanation": "海浪已经打到步道上。"
+      },
+      {
+        "prompt": "Why were some students disappointed?",
+        "options": [
+          "They forgot their jackets",
+          "Their cameras broke",
+          "The walk ended early",
+          "They wanted sea photographs"
+        ],
+        "answer": 3,
+        "explanation": "本来期待拍海景的同学感到失望。"
+      },
+      {
+        "prompt": "What is the main lesson?",
+        "options": [
+          "An alternative plan can help",
+          "Always choose the shortest walk",
+          "Never bring a camera",
+          "Forests are easier to photograph"
+        ],
+        "answer": 0,
+        "explanation": "备用路线使活动顺利进行，也不用赶时间。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "The guide checked the weather in the morning and saw that strong ____ were coming.",
+        "answer": "winds",
+        "sentenceIndex": 1
+      },
+      {
+        "prompt": "Instead of cancelling, she prepared a second route through a nearby ____.",
+        "answer": "forest",
+        "sentenceIndex": 2
+      },
+      {
+        "prompt": "Before they set out, she asked everyone to carry ____ and put a warm layer in their bag.",
+        "answer": "water",
+        "sentenceIndex": 3
+      },
+      {
+        "prompt": "At the coast, the group could see ____ reaching the path, so they chose the forest route.",
+        "answer": "waves",
+        "sentenceIndex": 4
+      },
+      {
+        "prompt": "They also found a wooden sign describing the ____ in the area.",
+        "answer": "birds",
+        "sentenceIndex": 7
+      }
+    ]
+  },
+  {
+    "id": "shift",
+    "level": "B1",
+    "topic": "职场",
+    "title": "A Better Handover",
+    "transcript": "Alina works in a small bakery that opens before sunrise. She usually finishes her shift just as the afternoon team arrives. For a while, she left short messages on scraps of paper, but important details sometimes got lost. One Friday, a customer came for a birthday cake and the afternoon team did not know where it was stored. The cake was safe in the fridge, but finding it took fifteen minutes. After that incident, Alina suggested using a notebook that would always stay by the cash register. Staff now write down special orders, ingredients that are running low, and equipment that needs attention. They also set aside two minutes to speak to the person taking over. The owner says the notebook helps, but the conversation gives workers a chance to ask questions before someone leaves.",
+    "questions": [
+      {
+        "prompt": "What problem did the bakery have?",
+        "options": [
+          "It could not open early",
+          "It had no room for cakes",
+          "Messages were getting lost",
+          "Sales had fallen"
+        ],
+        "answer": 2,
+        "explanation": "原先用零散纸条交接，重要内容容易遗漏。"
+      },
+      {
+        "prompt": "Where was the birthday cake?",
+        "options": [
+          "On the counter",
+          "In another shop",
+          "At the customer's home",
+          "In the fridge"
+        ],
+        "answer": 3,
+        "explanation": "蛋糕安全地放在冰箱里。"
+      },
+      {
+        "prompt": "Where is the notebook kept?",
+        "options": [
+          "By the cash register",
+          "In the fridge",
+          "At Alina's house",
+          "Near the front door"
+        ],
+        "answer": 0,
+        "explanation": "笔记本会一直放在收银机旁。"
+      },
+      {
+        "prompt": "Why is an oral handover useful?",
+        "options": [
+          "It saves all writing",
+          "Staff can ask questions",
+          "It makes the shift longer",
+          "Customers can hear the orders"
+        ],
+        "answer": 1,
+        "explanation": "当面交接让接班人有机会提问。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "For a while, she left short messages on scraps of ____, but important details sometimes got lost.",
+        "answer": "paper",
+        "sentenceIndex": 2
+      },
+      {
+        "prompt": "One Friday, a customer came for a birthday ____ and the afternoon team did not know where it was stored.",
+        "answer": "cake",
+        "sentenceIndex": 3
+      },
+      {
+        "prompt": "The cake was safe in the ____, but finding it took fifteen minutes.",
+        "answer": "fridge",
+        "sentenceIndex": 4
+      },
+      {
+        "prompt": "After that incident, Alina suggested using a ____ that would always stay by the cash register.",
+        "answer": "notebook",
+        "sentenceIndex": 5
+      },
+      {
+        "prompt": "The owner says the notebook helps, but the conversation gives workers a chance to ask ____ before someone leaves.",
+        "answer": "questions",
+        "sentenceIndex": 8
+      }
+    ]
+  },
+  {
+    "id": "trees",
+    "level": "B2",
+    "topic": "环境",
+    "title": "Measuring the Shade",
+    "transcript": "A council wanted to plant trees in the hottest parts of a town. Its first map showed the average temperature in each district, but the team realised that the averages concealed big differences between nearby streets. On some streets tall buildings already provided shade. On others, people stood at bus stops in the sun, even though the average for the district was only slightly above normal. The council asked volunteers to walk the streets with small temperature sensors at the same time on three afternoons. To make their readings comparable, the volunteers followed fixed routes and stopped at marked locations. They also recorded whether anyone had a place to sit in the shade. The new map showed that a short stretch of road near a clinic was particularly uncomfortable. The team proposed planting trees there first, along with adding a temporary shelter. New trees would need several years to offer enough shade, so the shelter would help during the next summer. The council also decided to repeat the survey after planting, both to check the effect and to see whether other streets needed attention.",
+    "questions": [
+      {
+        "prompt": "What was missing from the first map?",
+        "options": [
+          "Street-level differences",
+          "The names of districts",
+          "Average temperatures",
+          "The locations of schools"
+        ],
+        "answer": 0,
+        "explanation": "区域均值掩盖了相邻街道的显著差异。"
+      },
+      {
+        "prompt": "Why did volunteers follow set routes?",
+        "options": [
+          "To stay near the clinic",
+          "To make readings comparable",
+          "To save on equipment",
+          "To avoid the bus stops"
+        ],
+        "answer": 1,
+        "explanation": "固定路线和测量点提高数据可比性。"
+      },
+      {
+        "prompt": "What was special about the road near the clinic?",
+        "options": [
+          "It had young trees",
+          "It was closed to traffic",
+          "It was especially uncomfortable in the heat",
+          "It was in the coolest district"
+        ],
+        "answer": 2,
+        "explanation": "新地图发现诊所附近有一小段路尤其炎热难耐。"
+      },
+      {
+        "prompt": "Why add a shelter as well as trees?",
+        "options": [
+          "Trees attract too many birds",
+          "The clinic has asked for more seats",
+          "The survey results may be wrong",
+          "The trees need time to grow"
+        ],
+        "answer": 3,
+        "explanation": "新树需要几年才能形成足够树荫，遮阳棚能较快发挥作用。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "Its first map showed the average temperature in each ____, but the team realised that the averages concealed big differences between nearby streets.",
+        "answer": "district",
+        "sentenceIndex": 1
+      },
+      {
+        "prompt": "On some streets tall buildings already provided ____.",
+        "answer": "shade",
+        "sentenceIndex": 2
+      },
+      {
+        "prompt": "The council asked volunteers to walk the streets with small temperature ____ at the same time on three afternoons.",
+        "answer": "sensors",
+        "sentenceIndex": 4
+      },
+      {
+        "prompt": "The new map showed that a short stretch of road near a ____ was particularly uncomfortable.",
+        "answer": "clinic",
+        "sentenceIndex": 7
+      },
+      {
+        "prompt": "The team proposed planting trees there first, along with adding a temporary ____.",
+        "answer": "shelter",
+        "sentenceIndex": 8
+      }
+    ]
+  },
+  {
+    "id": "archive",
+    "level": "B2",
+    "topic": "文化",
+    "title": "The Voices of the Archive",
+    "transcript": "A town museum began recording interviews with people who had worked at the old railway station. The organisers first approached former managers because they could easily be found in the museum's existing records. The interviews gave a clear account of changes to the buildings and the services, but staff noticed that they heard very little about the station as a place where ordinary people spent time. They expanded the project to include cleaners, ticket sellers, and people who had lived nearby. A woman who ran the café remembered leaving the lights on after closing so that night workers had somewhere warm to wait. Other people remembered the same café as an expensive place they seldom visited. The museum kept both versions in the exhibition. The curator explained that memories reflect individual experiences and that disagreements can reveal how a place served different people. To help listeners follow the recordings, the museum published short written summaries with dates where known. It also gave speakers a chance to withdraw sections about private family matters before the recordings were made public.",
+    "questions": [
+      {
+        "prompt": "Why were former managers approached first?",
+        "options": [
+          "They had requested an exhibition",
+          "Their contact details were easier to find",
+          "They were the oldest workers",
+          "They owned the station"
+        ],
+        "answer": 1,
+        "explanation": "馆方的现有资料让联系旧管理者更容易。"
+      },
+      {
+        "prompt": "What was missing from the early interviews?",
+        "options": [
+          "Dates of station changes",
+          "Building information",
+          "Everyday experiences",
+          "Information about services"
+        ],
+        "answer": 2,
+        "explanation": "采访较少涉及普通人在车站度过时间的经历。"
+      },
+      {
+        "prompt": "Why keep different accounts of the café?",
+        "options": [
+          "To decide which person lied",
+          "To increase the length of the exhibition",
+          "To promote the café",
+          "To show how experiences differed"
+        ],
+        "answer": 3,
+        "explanation": "分歧能展示同一场所在不同人眼里的样子。"
+      },
+      {
+        "prompt": "What control did the speakers have?",
+        "options": [
+          "They could remove some personal material",
+          "They could rewrite another interview",
+          "They could close the museum",
+          "They could choose ticket prices"
+        ],
+        "answer": 0,
+        "explanation": "公开前，受访者可以撤回涉及私人家庭事务的片段。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "A town museum began recording interviews with people who had worked at the old ____ station.",
+        "answer": "railway",
+        "sentenceIndex": 0
+      },
+      {
+        "prompt": "The organisers first approached former ____ because they could easily be found in the museum's existing records.",
+        "answer": "managers",
+        "sentenceIndex": 1
+      },
+      {
+        "prompt": "They expanded the project to include ____, ticket sellers, and people who had lived nearby.",
+        "answer": "cleaners",
+        "sentenceIndex": 3
+      },
+      {
+        "prompt": "A woman who ran the café remembered leaving the ____ on after closing so that night workers had somewhere warm to wait.",
+        "answer": "lights",
+        "sentenceIndex": 4
+      },
+      {
+        "prompt": "To help listeners follow the recordings, the museum published short written ____ with dates where known.",
+        "answer": "summaries",
+        "sentenceIndex": 8
+      }
+    ]
+  },
+  {
+    "id": "pilot",
+    "level": "B2",
+    "topic": "科技",
+    "title": "Testing a Quiet Notification",
+    "transcript": "A university introduced an app to tell students when a study room became free. The idea sounded helpful, but some students soon complained that waiting for alerts made it difficult to concentrate. A small design team tested a quieter setting. Instead of alerting people about every available room, the app would wait until a room matched the student's chosen time and location. Before changing the app for everyone, the team invited two groups to try it for a week. One group kept the original settings. The other tried the quieter version. The second group received fewer alerts and reported fewer interruptions. However, a few students who were willing to study anywhere said they preferred seeing all the options. To find out why, the designers asked them when they usually looked for rooms. Most were looking at short notice between classes, when a wide search was faster. The final version allowed users to switch between quiet and full alerts. The team added a short note in the settings so that students would know when each choice might suit them.",
+    "questions": [
+      {
+        "prompt": "What was the initial complaint?",
+        "options": [
+          "Alerts disturbed concentration",
+          "Rooms were never available",
+          "The app would not install",
+          "The map was incorrect"
+        ],
+        "answer": 0,
+        "explanation": "学生发现等候和接收提醒干扰了专注。"
+      },
+      {
+        "prompt": "How did the quieter setting work?",
+        "options": [
+          "It sent alerts only at night",
+          "It filtered alerts by time and location",
+          "It hid all available rooms",
+          "It made the phone vibrate longer"
+        ],
+        "answer": 1,
+        "explanation": "只在空房符合时间和地点偏好时发送提醒。"
+      },
+      {
+        "prompt": "Who sometimes preferred full alerts?",
+        "options": [
+          "People studying at home",
+          "University teachers",
+          "Students with flexible locations and little notice",
+          "Students who had reserved rooms"
+        ],
+        "answer": 2,
+        "explanation": "愿意去任何房间且临时找房的学生需要较广的信息。"
+      },
+      {
+        "prompt": "What did the team ultimately do?",
+        "options": [
+          "Remove the app",
+          "Keep only quiet alerts",
+          "Stop all testing",
+          "Let users switch modes"
+        ],
+        "answer": 3,
+        "explanation": "正式版本同时提供两种设置供学生选择。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "A university introduced an app to tell students when a study ____ became free.",
+        "answer": "room",
+        "sentenceIndex": 0
+      },
+      {
+        "prompt": "The idea sounded helpful, but some students soon complained that waiting for ____ made it difficult to concentrate.",
+        "answer": "alerts",
+        "sentenceIndex": 1
+      },
+      {
+        "prompt": "Instead of alerting people about every available room, the app would wait until a room matched the student's chosen time and ____.",
+        "answer": "location",
+        "sentenceIndex": 3
+      },
+      {
+        "prompt": "Before changing the app for everyone, the team invited two groups to try it for a ____.",
+        "answer": "week",
+        "sentenceIndex": 4
+      },
+      {
+        "prompt": "One group kept the original ____.",
+        "answer": "settings",
+        "sentenceIndex": 5
+      }
+    ]
+  },
+  {
+    "id": "metrics",
+    "level": "C1",
+    "topic": "职场",
+    "title": "What the Dashboard Missed",
+    "transcript": "A customer support team introduced a dashboard that showed how quickly its staff answered messages. At first, managers regarded the figures as a fair measure because every message had a clear arrival time and a recorded reply. Within a month the median response time fell sharply. Yet the share of customers who had to write back about the same problem rose. When managers listened to staff, they learned that some workers were sending brief replies asking for information that was already available in the account history. Others were closing complex cases early because a case left open appeared on the dashboard as unfinished work. The dashboard had made speed visible while leaving resolution largely invisible. The team experimented with two changes. It tracked whether users returned with the same issue within seven days, and it set aside time for workers to review a sample of difficult cases together. The additional measure was imperfect, since a customer could give up instead of writing again. The discussion sessions helped identify this blind spot and gave staff a way to explain why some cases needed more time. After three months, the managers kept response time on the dashboard but removed the individual ranking. They used the figures to investigate recurring problems and used case reviews to decide what to change. The experiment showed how a precise number can support inquiry while giving a misleading impression when used as the sole basis for comparing people.",
+    "questions": [
+      {
+        "prompt": "Why did the original dashboard seem fair?",
+        "options": [
+          "The timing could be recorded consistently",
+          "Workers chose the figures themselves",
+          "It measured all customer outcomes",
+          "It removed difficult cases"
+        ],
+        "answer": 0,
+        "explanation": "每封消息都有明确的收到时间与回复记录，看起来便于公平计量。"
+      },
+      {
+        "prompt": "Why did repeat contacts rise?",
+        "options": [
+          "The company had hidden account history",
+          "Quick replies could leave issues unresolved",
+          "Managers discontinued feedback",
+          "Customers were unable to open messages"
+        ],
+        "answer": 1,
+        "explanation": "有些员工因速度指标发送敷衍回复，实际问题仍未解决。"
+      },
+      {
+        "prompt": "What made the additional measure imperfect?",
+        "options": [
+          "Seven days was the time allowed for a first reply",
+          "Managers sampled only easy issues",
+          "A dissatisfied customer might never write again",
+          "Not all workers could access the dashboard"
+        ],
+        "answer": 2,
+        "explanation": "用户放弃求助时，是否再次联系这个指标会漏掉他。"
+      },
+      {
+        "prompt": "What did managers ultimately change?",
+        "options": [
+          "They stopped collecting numbers",
+          "They rated workers by time taken to resolve a case",
+          "They replaced reviews with automated ratings",
+          "They kept the speed data but stopped ranking individuals"
+        ],
+        "answer": 3,
+        "explanation": "响应时间仍用于调查，但不再用于个人排名。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "A customer support team introduced a ____ that showed how quickly its staff answered messages.",
+        "answer": "dashboard",
+        "sentenceIndex": 0
+      },
+      {
+        "prompt": "Within a month the ____ response time fell sharply.",
+        "answer": "median",
+        "sentenceIndex": 2
+      },
+      {
+        "prompt": "When managers listened to staff, they learned that some workers were sending brief replies asking for information that was already available in the account ____.",
+        "answer": "history",
+        "sentenceIndex": 4
+      },
+      {
+        "prompt": "The additional measure was ____, since a customer could give up instead of writing again.",
+        "answer": "imperfect",
+        "sentenceIndex": 9
+      },
+      {
+        "prompt": "After three months, the managers kept response time on the dashboard but removed the individual ____.",
+        "answer": "ranking",
+        "sentenceIndex": 11
+      }
+    ]
+  },
+  {
+    "id": "wetland",
+    "level": "C1",
+    "topic": "环境",
+    "title": "A Wetland that Changes",
+    "transcript": "A regional park restored a wetland that had been drained decades earlier to make room for fields. The restoration team blocked several drainage channels and expected the area to resemble historic photographs within a few years. When water returned, however, it spread unevenly, partly because the soil had settled while the land was dry. Some patches filled rapidly, while others stayed too dry for the plants shown in the photographs. At first, local critics argued that this uneven result proved the project had failed. Ecologists pointed out that a range of water depths could provide shelter for more species and make the wetland less vulnerable to a single dry season. They also wanted to know whether the difference between wet and dry patches would persist. The park set up marked observation points and invited neighbours to help record birds, plants, and water levels across the seasons. It shared the records at public meetings alongside explanations of what researchers still did not know. The team later adjusted a channel near a footpath, where flooding had reduced access for visitors. It left the rest of the uneven ground alone while it collected more evidence. The park had initially treated the photographs as a picture of the desired outcome. Its new target specified several functions, including holding storm water and supporting breeding birds. Officials continued to use the photographs to explain the history of the site, while judging current results through the new observations.",
+    "questions": [
+      {
+        "prompt": "What contributed to the uneven water levels?",
+        "options": [
+          "Restoration took place during winter",
+          "The soil had settled",
+          "Visitors moved the channels",
+          "The photographs were taken at night"
+        ],
+        "answer": 1,
+        "explanation": "排干期间土壤发生沉降，复水后地形使水位不均。"
+      },
+      {
+        "prompt": "Why might uneven water depths be beneficial?",
+        "options": [
+          "They guarantee the original plants will return",
+          "They remove the need for observation",
+          "They can support more species",
+          "They keep all footpaths dry"
+        ],
+        "answer": 2,
+        "explanation": "不同深度可以给更多物种提供庇护。"
+      },
+      {
+        "prompt": "Why was a channel near a footpath adjusted?",
+        "options": [
+          "The soil was too dry",
+          "Birds had stopped breeding",
+          "Visitors wanted new photographs",
+          "Flooding had reduced access"
+        ],
+        "answer": 3,
+        "explanation": "步道附近积水影响通行，因此团队调整了就近水渠。"
+      },
+      {
+        "prompt": "How did the park redefine success?",
+        "options": [
+          "By assessing functions and observations",
+          "By copying a more recent photograph",
+          "By draining dry areas again",
+          "By counting meetings alone"
+        ],
+        "answer": 0,
+        "explanation": "后来目标包括调蓄暴雨和支持鸟类繁殖等实际功能，并用观测衡量。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "A regional park restored a wetland that had been drained decades earlier to make room for ____.",
+        "answer": "fields",
+        "sentenceIndex": 0
+      },
+      {
+        "prompt": "The restoration team blocked several drainage channels and expected the area to resemble historic ____ within a few years.",
+        "answer": "photographs",
+        "sentenceIndex": 1
+      },
+      {
+        "prompt": "When water returned, however, it spread unevenly, partly because the ____ had settled while the land was dry.",
+        "answer": "soil",
+        "sentenceIndex": 2
+      },
+      {
+        "prompt": "Ecologists pointed out that a range of water ____ could provide shelter for more species and make the wetland less vulnerable to a single dry season.",
+        "answer": "depths",
+        "sentenceIndex": 5
+      },
+      {
+        "prompt": "The team later adjusted a channel near a ____, where flooding had reduced access for visitors.",
+        "answer": "footpath",
+        "sentenceIndex": 9
+      }
+    ]
+  },
+  {
+    "id": "exhibit",
+    "level": "C1",
+    "topic": "文化",
+    "title": "How Visitors Use a Label",
+    "transcript": "An art gallery rewrote its labels after visitors complained that the descriptions were difficult to follow. The first draft of the new labels used shorter sentences and moved dates to a separate line. During a trial, visitors could find basic information more quickly, yet interviews revealed that some readers still felt excluded. Several labels described a painting as a response to a debate without saying what people had disagreed about. Others said an artist had broken with tradition while leaving the tradition itself unexplained. The trial suggested that clarity depends on what the writer assumes the reader already knows. The gallery then invited people to browse in pairs and describe a painting to each other. Staff noticed that visitors often used one detail from the label to start a conversation, then moved quickly back to the work. The second revision put a small observation near the beginning of each label, such as the position of a figure or the movement of a shadow. It explained the larger historical point after connecting it to that observation. The gallery retained a longer text in a printed guide for people who wanted more detail. In the final trial, the number of people who could recall a relevant visual detail increased. Staff decided to keep measuring that result alongside reading time, because a quick visit to a label could still lead to a richer encounter with the artwork.",
+    "questions": [
+      {
+        "prompt": "What problem remained after the first revision?",
+        "options": [
+          "Dates were impossible to locate",
+          "Printing took too long",
+          "Labels still assumed background knowledge",
+          "The gallery had removed observations"
+        ],
+        "answer": 2,
+        "explanation": "读者看懂句子也可能不知道其中提到的争论或传统。"
+      },
+      {
+        "prompt": "What did the gallery notice when visitors worked in pairs?",
+        "options": [
+          "They refused to look at the painting",
+          "They read every label aloud",
+          "They spent most time learning dates",
+          "They used a label detail to begin talking"
+        ],
+        "answer": 3,
+        "explanation": "访客常用标签里的细节引出交流，然后重新观察作品。"
+      },
+      {
+        "prompt": "How did the second revision usually open a label?",
+        "options": [
+          "With an observable detail",
+          "With a historical timeline",
+          "With a list of previous artists",
+          "With an argument about prices"
+        ],
+        "answer": 0,
+        "explanation": "新版开头常给出一个可从画面观察到的细节。"
+      },
+      {
+        "prompt": "Why did the team measure recall as well as reading time?",
+        "options": [
+          "To discourage brief visits",
+          "To capture what people noticed about the art",
+          "To compare gallery ticket prices",
+          "To reduce the guide's length"
+        ],
+        "answer": 1,
+        "explanation": "即使标签只被扫读一会儿，访客也可能因此观察到更丰富的作品细节。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "An art gallery rewrote its ____ after visitors complained that the descriptions were difficult to follow.",
+        "answer": "labels",
+        "sentenceIndex": 0
+      },
+      {
+        "prompt": "Several labels described a painting as a response to a ____ without saying what people had disagreed about.",
+        "answer": "debate",
+        "sentenceIndex": 3
+      },
+      {
+        "prompt": "The gallery then invited people to browse in ____ and describe a painting to each other.",
+        "answer": "pairs",
+        "sentenceIndex": 6
+      },
+      {
+        "prompt": "The second revision put a small observation near the beginning of each label, such as the position of a figure or the movement of a ____.",
+        "answer": "shadow",
+        "sentenceIndex": 8
+      },
+      {
+        "prompt": "The gallery retained a longer text in a printed ____ for people who wanted more detail.",
+        "answer": "guide",
+        "sentenceIndex": 10
+      }
+    ]
+  },
+  {
+    "id": "pool-locker",
+    "level": "A2",
+    "topic": "游泳馆",
+    "title": "A Locker at the Pool",
+    "transcript": "On Tuesday, Ben went to the pool with his sister. He put his shoes in a locker near the entrance. After swimming, he looked for the key in his bag. It was missing, so he asked a member of staff for help. She asked him to describe his shoes. He said they were green and had white stars on the sides. She opened the locker, and the shoes were there. The key was on the shelf inside. Ben thanked her and put the key in a box by the exit before he left.",
+    "questions": [
+      {
+        "prompt": "Who went with Ben to the pool?",
+        "options": [
+          "His cousin",
+          "His mother",
+          "His sister",
+          "His neighbour"
+        ],
+        "answer": 2,
+        "explanation": "首句说 Ben 和妹妹或姐姐一起去了游泳馆。"
+      },
+      {
+        "prompt": "Why did Ben ask for help?",
+        "options": [
+          "The pool was closed.",
+          "His bag was wet.",
+          "He could not find the key.",
+          "He did not know when to leave."
+        ],
+        "answer": 2,
+        "explanation": "Ben 在包里找不到柜子的钥匙。"
+      },
+      {
+        "prompt": "What colour were his shoes?",
+        "options": [
+          "Blue",
+          "Black",
+          "Red",
+          "Green"
+        ],
+        "answer": 3,
+        "explanation": "他告诉工作人员，鞋子是绿色的，侧面有白色星星。"
+      },
+      {
+        "prompt": "Where was the key?",
+        "options": [
+          "In the pool",
+          "Under the entrance mat",
+          "In his sister's bag",
+          "On a shelf inside the locker"
+        ],
+        "answer": 3,
+        "explanation": "打开柜子后，钥匙就在里面的架子上。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "On ____, Ben went to the pool with his sister.",
+        "answer": "Tuesday",
+        "sentenceIndex": 0
+      },
+      {
+        "prompt": "He put his shoes in a locker near the ____.",
+        "answer": "entrance",
+        "sentenceIndex": 1
+      },
+      {
+        "prompt": "It was ____, so he asked a member of staff for help.",
+        "answer": "missing",
+        "sentenceIndex": 3
+      },
+      {
+        "prompt": "He said they were green and had white ____ on the sides.",
+        "answer": "stars",
+        "sentenceIndex": 5
+      },
+      {
+        "prompt": "The key was on the ____ inside.",
+        "answer": "shelf",
+        "sentenceIndex": 7
+      }
+    ]
+  },
+  {
+    "id": "birthday-post",
+    "level": "A2",
+    "topic": "寄送礼物",
+    "title": "A Box for Grandma",
+    "transcript": "Nora made a clay bird for her grandmother's birthday. Her brother found a small box in the kitchen. Nora wrapped the bird in an old scarf so that it would not break. At the post office, she showed the clerk the address on her phone. The clerk said the box would arrive on Friday. That was one day before the birthday. Nora wrote a short note to go inside the box. She asked her grandmother to put the bird by the window. That way, it could sit in the sun every morning.",
+    "questions": [
+      {
+        "prompt": "What did Nora make?",
+        "options": [
+          "A scarf",
+          "A box",
+          "A bird",
+          "A cake"
+        ],
+        "answer": 2,
+        "explanation": "首句交代礼物是一只黏土小鸟。"
+      },
+      {
+        "prompt": "Why did she wrap the gift?",
+        "options": [
+          "To hide the address",
+          "To stop it from breaking",
+          "To make it heavier",
+          "To keep the box dry"
+        ],
+        "answer": 1,
+        "explanation": "她用围巾包住小鸟，避免它摔碎。"
+      },
+      {
+        "prompt": "When was the birthday?",
+        "options": [
+          "Thursday",
+          "Friday",
+          "Sunday",
+          "Saturday"
+        ],
+        "answer": 3,
+        "explanation": "包裹周五到，而周五是生日的前一天。"
+      },
+      {
+        "prompt": "What did Nora ask her grandmother to do?",
+        "options": [
+          "Send back the scarf",
+          "Phone the clerk",
+          "Open the box on Friday",
+          "Put the gift by the window"
+        ],
+        "answer": 3,
+        "explanation": "她在便条里请奶奶把小鸟放到窗边。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "Nora made a ____ bird for her grandmother's birthday.",
+        "answer": "clay",
+        "sentenceIndex": 0
+      },
+      {
+        "prompt": "Nora wrapped the bird in an old ____ so that it would not break.",
+        "answer": "scarf",
+        "sentenceIndex": 2
+      },
+      {
+        "prompt": "At the post office, she showed the ____ the address on her phone.",
+        "answer": "clerk",
+        "sentenceIndex": 3
+      },
+      {
+        "prompt": "The clerk said the box would arrive on ____.",
+        "answer": "Friday",
+        "sentenceIndex": 4
+      },
+      {
+        "prompt": "She asked her grandmother to put the bird by the ____.",
+        "answer": "window",
+        "sentenceIndex": 7
+      }
+    ]
+  },
+  {
+    "id": "school-radio",
+    "level": "B1",
+    "topic": "校园广播",
+    "title": "The Friday School Broadcast",
+    "transcript": "Our school radio group used to read a list of announcements every Friday. Most students stopped listening after the first minute, so we decided to add a short interview. For our first programme, we invited the cook who makes the bread for lunch. We prepared six questions but only had enough time to ask three. The most popular answer came when she told us why she starts work before sunrise. She needs to give the dough time to rise before the ovens are free. After the programme, several students sent us questions for the next guest. One student wanted to know how the school chooses its football teams. We put a question box outside the dining hall so that students without phones could join in. Next Friday, we will let a different student introduce the guest.",
+    "questions": [
+      {
+        "prompt": "Why did the group change the programme?",
+        "options": [
+          "The school bought a new oven.",
+          "Students quickly lost interest.",
+          "The announcements took too long to write.",
+          "The cook asked for an interview."
+        ],
+        "answer": 1,
+        "explanation": "过去的广播只念通知，许多学生很快就不听了。"
+      },
+      {
+        "prompt": "How many questions did the cook have time to answer?",
+        "options": [
+          "One",
+          "Three",
+          "Six",
+          "Ten"
+        ],
+        "answer": 1,
+        "explanation": "小组准备了六个问题，但时间只够问三个。"
+      },
+      {
+        "prompt": "Why does the cook begin so early?",
+        "options": [
+          "To collect questions",
+          "To choose football players",
+          "To allow the dough to rise",
+          "To open the dining hall for breakfast"
+        ],
+        "answer": 2,
+        "explanation": "她得让面团在烤箱空出来前有时间发酵。"
+      },
+      {
+        "prompt": "How did the group include students without phones?",
+        "options": [
+          "It placed a box outside the dining hall.",
+          "It invited them to bake bread.",
+          "It moved the interview to a classroom.",
+          "It sent them a recording by email."
+        ],
+        "answer": 0,
+        "explanation": "实体提问箱让没有手机的学生也能提交问题。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "Most students stopped listening after the first minute, so we decided to add a short ____.",
+        "answer": "interview",
+        "sentenceIndex": 1
+      },
+      {
+        "prompt": "We prepared ____ questions but only had enough time to ask three.",
+        "answer": "six",
+        "sentenceIndex": 3
+      },
+      {
+        "prompt": "The most popular answer came when she told us why she starts work before ____.",
+        "answer": "sunrise",
+        "sentenceIndex": 4
+      },
+      {
+        "prompt": "She needs to give the ____ time to rise before the ovens are free.",
+        "answer": "dough",
+        "sentenceIndex": 5
+      },
+      {
+        "prompt": "We put a question box outside the ____ hall so that students without phones could join in.",
+        "answer": "dining",
+        "sentenceIndex": 8
+      }
+    ]
+  },
+  {
+    "id": "costume-loan",
+    "level": "B1",
+    "topic": "剧团服装",
+    "title": "A Coat for Opening Night",
+    "transcript": "Three days before our play opened, the company still needed a coat for the final scene. We found the right colour at a costume shop, but the owner could only lend it to us after another group returned it. We booked a plain coat from the school as a backup. On Thursday, the shop called to say that the first coat had come back with a torn pocket. The owner offered to fix it overnight. We asked for a photograph and saw that the damage would be hidden when the coat was closed. Since our actor never needed to use the pocket, we chose to collect the coat that afternoon. We returned the school coat before the last rehearsal. The shop owner let us borrow a cloth bag to keep the costume clean on the way home.",
+    "questions": [
+      {
+        "prompt": "Why could the shop not lend the coat immediately?",
+        "options": [
+          "The coat was the wrong colour.",
+          "The shop was closing for a week.",
+          "Another group still had it.",
+          "An actor had lost it."
+        ],
+        "answer": 2,
+        "explanation": "另一剧团必须先归还那件外套。"
+      },
+      {
+        "prompt": "What problem did the shop report?",
+        "options": [
+          "A sleeve was missing.",
+          "The bag was dirty.",
+          "The coat was too small.",
+          "A pocket was torn."
+        ],
+        "answer": 3,
+        "explanation": "店主说外套归还时有一个口袋破了。"
+      },
+      {
+        "prompt": "Why did the group collect it without waiting for a repair?",
+        "options": [
+          "The owner had already repaired it.",
+          "The actor needed to show the pocket.",
+          "The tear was hidden in the scene.",
+          "There was no other coat available."
+        ],
+        "answer": 2,
+        "explanation": "合上外套就看不到破损，而演员也无需用口袋。"
+      },
+      {
+        "prompt": "What did the group return before the last rehearsal?",
+        "options": [
+          "A photograph",
+          "The backup coat",
+          "The cloth bag",
+          "Both coats"
+        ],
+        "answer": 1,
+        "explanation": "确认用店里的服装后，他们在最后一次排练前归还了学校的备用外套。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "Three days before our play opened, the company still needed a coat for the ____ scene.",
+        "answer": "final",
+        "sentenceIndex": 0
+      },
+      {
+        "prompt": "We booked a plain coat from the school as a ____.",
+        "answer": "backup",
+        "sentenceIndex": 2
+      },
+      {
+        "prompt": "On Thursday, the shop called to say that the first coat had come back with a ____ pocket.",
+        "answer": "torn",
+        "sentenceIndex": 3
+      },
+      {
+        "prompt": "We asked for a ____ and saw that the damage would be hidden when the coat was closed.",
+        "answer": "photograph",
+        "sentenceIndex": 5
+      },
+      {
+        "prompt": "The shop owner let us borrow a ____ bag to keep the costume clean on the way home.",
+        "answer": "cloth",
+        "sentenceIndex": 8
+      }
+    ]
+  },
+  {
+    "id": "pottery-stacking",
+    "level": "B2",
+    "topic": "陶器烧制",
+    "title": "A Kiln Full of Bowls",
+    "transcript": "The pottery workshop had promised to deliver forty soup bowls to a local restaurant by the end of the month. During the first firing, several bowls on the lowest shelf came out with a dull patch near the rim. The owner suspected that the new glaze was at fault, but the apprentice noticed that the affected bowls were all facing the same direction. To test whether position mattered, they used the same glaze on six spare bowls and placed them at different heights in the kiln. They also turned half the bowls so that their rims faced away from the nearest wall. At the end of the test, only the bowls close to that wall showed the patch. A technician explained that the crowded shelf had prevented heat from circulating evenly. The next batch had fewer bowls on each shelf, so it took an extra firing to complete the order. The restaurant agreed to take the first delivery in two parts, since it only needed half the bowls for its opening week. The workshop now keeps a sketch of each shelf arrangement alongside its firing records.",
+    "questions": [
+      {
+        "prompt": "What made the apprentice question the glaze explanation?",
+        "options": [
+          "The glaze had already expired.",
+          "The affected bowls shared an orientation.",
+          "The new bowls were larger.",
+          "The patch changed colour in daylight."
+        ],
+        "answer": 1,
+        "explanation": "学徒发现有斑点的碗全朝同一方向，因而怀疑摆放位置有影响。"
+      },
+      {
+        "prompt": "What did the workshop keep the same in its test?",
+        "options": [
+          "The shelf height",
+          "The glaze",
+          "The rim direction",
+          "The distance from the wall"
+        ],
+        "answer": 1,
+        "explanation": "测试对比了位置和朝向，但仍使用同一种釉料。"
+      },
+      {
+        "prompt": "What did the technician identify as the problem?",
+        "options": [
+          "Cracks in the kiln wall",
+          "An incorrect glaze recipe",
+          "Uneven heat circulation",
+          "Too much time between firings"
+        ],
+        "answer": 2,
+        "explanation": "陶碗摆得太密，阻碍了热量均匀流通。"
+      },
+      {
+        "prompt": "Why could the restaurant accept two deliveries?",
+        "options": [
+          "It needed only half the order at first.",
+          "Its opening date was cancelled.",
+          "It had asked for fewer bowls.",
+          "It had an unused kiln."
+        ],
+        "answer": 0,
+        "explanation": "开业第一周只需要一半的碗，分两次送货也来得及。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "The pottery workshop had promised to deliver ____ soup bowls to a local restaurant by the end of the month.",
+        "answer": "forty",
+        "sentenceIndex": 0
+      },
+      {
+        "prompt": "The owner suspected that the new glaze was at fault, but the apprentice noticed that the affected bowls were all facing the same ____.",
+        "answer": "direction",
+        "sentenceIndex": 2
+      },
+      {
+        "prompt": "To test whether position mattered, they used the same glaze on six spare bowls and placed them at different ____ in the kiln.",
+        "answer": "heights",
+        "sentenceIndex": 3
+      },
+      {
+        "prompt": "A technician explained that the crowded shelf had prevented heat from ____ evenly.",
+        "answer": "circulating",
+        "sentenceIndex": 6
+      },
+      {
+        "prompt": "The workshop now keeps a ____ of each shelf arrangement alongside its firing records.",
+        "answer": "sketch",
+        "sentenceIndex": 9
+      }
+    ]
+  },
+  {
+    "id": "dubbing-booth",
+    "level": "B2",
+    "topic": "影片配音",
+    "title": "The Pause in the Dubbing Booth",
+    "transcript": "When we recorded an English version of a short film, one scene gave us more trouble than the rest. A locksmith was meant to realise, halfway through a sentence, that the spare key had gone missing. Our first translation fitted the total speaking time, but the actor had to rush the final words to stay in step with the image. On screen, the locksmith looked down at his hand before he finished speaking. The translation left no pause at that point, so the audience heard the discovery before seeing what had caused it. We tried replacing the opening clause with a shorter one and moving the important noun to the end. That gave the actor enough time to breathe and let the movement on screen carry part of the meaning. We played both recordings to two colleagues who hadn't seen the original version. With the revised recording, both understood why the locksmith suddenly stopped smiling. We kept the longer translation in our notes because it explained a joke that could still be used in the written description of the film.",
+    "questions": [
+      {
+        "prompt": "What was wrong with the first translation?",
+        "options": [
+          "It named the wrong object.",
+          "It gave away the discovery too early.",
+          "It omitted the locksmith's main line.",
+          "It ran beyond the end of the film."
+        ],
+        "answer": 1,
+        "explanation": "最初的译文没有给画面留出停顿，观众先听到发现，再看到发现的原因。"
+      },
+      {
+        "prompt": "How did the team revise the line?",
+        "options": [
+          "It added a second speaker.",
+          "It replaced the pause with music.",
+          "It translated the joke word for word.",
+          "It shortened the opening and delayed a key noun."
+        ],
+        "answer": 3,
+        "explanation": "通过缩短开头的分句并把重要名词放到最后，台词就能配合画面。"
+      },
+      {
+        "prompt": "Who heard both recordings?",
+        "options": [
+          "The locksmith who inspired the story",
+          "An audience at a film festival",
+          "Two colleagues unfamiliar with the original",
+          "Two actors from the original film"
+        ],
+        "answer": 2,
+        "explanation": "团队找来两位没看过原版的同事试听。"
+      },
+      {
+        "prompt": "Why did the team save the longer version?",
+        "options": [
+          "The actor preferred it for every performance.",
+          "A joke could still inform the written description.",
+          "They planned to reshoot the scene around it.",
+          "It was required for the film credits."
+        ],
+        "answer": 1,
+        "explanation": "长译文解释了一个笑点，可用于影片的文字介绍。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "A ____ was meant to realise, halfway through a sentence, that the spare key had gone missing.",
+        "answer": "locksmith",
+        "sentenceIndex": 1
+      },
+      {
+        "prompt": "Our first translation fitted the total speaking time, but the actor had to ____ the final words to stay in step with the image.",
+        "answer": "rush",
+        "sentenceIndex": 2
+      },
+      {
+        "prompt": "The translation left no ____ at that point, so the audience heard the discovery before seeing what had caused it.",
+        "answer": "pause",
+        "sentenceIndex": 4
+      },
+      {
+        "prompt": "We tried replacing the opening ____ with a shorter one and moving the important noun to the end.",
+        "answer": "clause",
+        "sentenceIndex": 5
+      },
+      {
+        "prompt": "We kept the longer translation in our notes because it explained a joke that could still be used in the written ____ of the film.",
+        "answer": "description",
+        "sentenceIndex": 9
+      }
+    ]
+  },
+  {
+    "id": "seed-exchange",
+    "level": "C1",
+    "topic": "种子交换",
+    "title": "What a Seed Exchange Selects For",
+    "transcript": "A volunteer seed exchange in our county began with a simple rule. Anyone taking a packet in spring was encouraged to return one in autumn. Over time, the shelves filled with seeds from vigorous plants, and the volunteers initially took this as evidence that the exchange was improving local varieties. That interpretation became harder to defend when a gardener asked which plants were absent from the collection. Some varieties produced an excellent crop but were difficult to save at the right moment. Others ripened when many growers were away, so their seeds were seldom brought back. The collection therefore reflected the convenience of harvesting seed as much as the quality of the vegetables people ate. To see how much this mattered, the organisers asked growers to record the varieties they planted even if they returned nothing. The lists revealed that several popular beans were widely grown but rarely represented on the shelves. Rather than judging all varieties by the number of packets returned, the organisers set aside a section for plants with less predictable seed harvests. They asked a few willing growers to monitor those plants and circulate a note when the seed was almost ready. This changed what members could infer from a full shelf. An abundance of packets still indicated that a variety was easy to share, but the new records helped distinguish that practical advantage from widespread preference. The exchange could now support both purposes without pretending that they were identical.",
+    "questions": [
+      {
+        "prompt": "What did the volunteers initially infer from the returns?",
+        "options": [
+          "The exchange was improving local varieties.",
+          "Most gardeners disliked beans.",
+          "All seed was harvested too early.",
+          "Growers preferred buying packets."
+        ],
+        "answer": 0,
+        "explanation": "起初大家把长势旺盛植株的种子数量看成当地品种正在改良的证据。"
+      },
+      {
+        "prompt": "What did the planting lists show?",
+        "options": [
+          "Few members planted anything in spring.",
+          "Nearly all growers chose the same vegetable.",
+          "Most packets carried the wrong label.",
+          "Some popular beans rarely came back as seed."
+        ],
+        "answer": 3,
+        "explanation": "种植记录显示，有几种豆子种得很广，种子却很少回到交换架上。"
+      },
+      {
+        "prompt": "What did volunteer growers agree to do?",
+        "options": [
+          "Count packets every spring.",
+          "Replace weak plants with purchased stock.",
+          "Limit how many beans people could take.",
+          "Watch certain plants and signal when seed was nearly ready."
+        ],
+        "answer": 3,
+        "explanation": "志愿者观察指定植株，并在种子接近可采收时提醒大家。"
+      },
+      {
+        "prompt": "What distinction does the speaker make in the conclusion?",
+        "options": [
+          "Local plants versus imported plants",
+          "Autumn planting versus spring planting",
+          "Seed freshness versus packet size",
+          "Ease of sharing versus popularity with growers"
+        ],
+        "answer": 3,
+        "explanation": "便于留种和交换的品种较容易堆满货架，种植记录则有助于判断受欢迎程度。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "Over time, the shelves filled with seeds from ____ plants, and the volunteers initially took this as evidence that the exchange was improving local varieties.",
+        "answer": "vigorous",
+        "sentenceIndex": 2
+      },
+      {
+        "prompt": "Some varieties produced an excellent ____ but were difficult to save at the right moment.",
+        "answer": "crop",
+        "sentenceIndex": 4
+      },
+      {
+        "prompt": "The collection therefore reflected the ____ of harvesting seed as much as the quality of the vegetables people ate.",
+        "answer": "convenience",
+        "sentenceIndex": 6
+      },
+      {
+        "prompt": "The lists revealed that several popular beans were widely grown but rarely ____ on the shelves.",
+        "answer": "represented",
+        "sentenceIndex": 8
+      },
+      {
+        "prompt": "This changed what members could ____ from a full shelf.",
+        "answer": "infer",
+        "sentenceIndex": 11
+      }
+    ]
+  },
+  {
+    "id": "translation-contract",
+    "level": "C1",
+    "topic": "翻译委托",
+    "title": "When a Repeated Line Changes Meaning",
+    "transcript": "A publisher hired two translators to work on different volumes of the same memoir. The books were to appear together, so the editor gave both translators a shared file for recording difficult decisions. At first, the file contained mostly names of streets, schools, and government offices. The difficulty arose when one translator added a note about a recurring phrase the narrator uses after his brother leaves home. In the first volume, the phrase sounds like an ordinary reminder about locking a door. In the second, it is spoken in a room with no door, where it clearly carries a different weight. The editor proposed choosing one English version and inserting it automatically wherever the phrase occurred. Both translators objected, but for different reasons. One thought the repetition would make the later scene more powerful only if the earlier line sounded plausible in everyday speech. The other worried that a literal version in the later scene would make the narrator seem confused rather than deliberate. They settled on keeping the same verb while allowing the rest of the wording to vary. This preserved enough of the echo for attentive readers without making either exchange sound forced. The incident also changed how the editor described the shared file. It had been introduced as a way to enforce consistency across the books. Afterwards, the editor treated it as a record of where the team had chosen consistency, and where the demands of a particular scene justified a departure.",
+    "questions": [
+      {
+        "prompt": "What first complicated the shared file?",
+        "options": [
+          "The translators disagreed about a school name.",
+          "The books acquired different publication dates.",
+          "A recurring phrase took on different meanings.",
+          "The narrator changed names between volumes."
+        ],
+        "answer": 2,
+        "explanation": "反复出现的锁门用语在两个场景中承担了不同的作用。"
+      },
+      {
+        "prompt": "What was one translator’s concern about a literal later version?",
+        "options": [
+          "It would reveal the title too early.",
+          "It might make the narrator seem confused.",
+          "It might make the earlier line too formal.",
+          "It would hide the brother’s identity."
+        ],
+        "answer": 1,
+        "explanation": "后来那个房间没有门，照字面译可能让读者误以为叙述者糊涂了。"
+      },
+      {
+        "prompt": "How was the phrase handled?",
+        "options": [
+          "Every instance used an identical translation.",
+          "The phrase was removed from the later volume.",
+          "The verb stayed the same while other wording could change.",
+          "The editor put the phrase in an appendix."
+        ],
+        "answer": 2,
+        "explanation": "保留同一动词让读者听见呼应，同时让其余措辞适应场景。"
+      },
+      {
+        "prompt": "How did the editor’s view of the file change?",
+        "options": [
+          "It became a glossary limited to street names.",
+          "It became a record of editorial choices and exceptions.",
+          "It became a tool for enforcing identical wording.",
+          "It became a list of doubtful manuscript facts."
+        ],
+        "answer": 1,
+        "explanation": "共享文档从统一译法的工具变成了记录一致译法及例外理由的工具。"
+      }
+    ],
+    "dictation": [
+      {
+        "prompt": "The books were to appear together, so the editor gave both translators a ____ file for recording difficult decisions.",
+        "answer": "shared",
+        "sentenceIndex": 1
+      },
+      {
+        "prompt": "The difficulty arose when one translator added a note about a ____ phrase the narrator uses after his brother leaves home.",
+        "answer": "recurring",
+        "sentenceIndex": 3
+      },
+      {
+        "prompt": "One thought the repetition would make the later scene more powerful only if the earlier line sounded ____ in everyday speech.",
+        "answer": "plausible",
+        "sentenceIndex": 8
+      },
+      {
+        "prompt": "They settled on keeping the same ____ while allowing the rest of the wording to vary.",
+        "answer": "verb",
+        "sentenceIndex": 10
+      },
+      {
+        "prompt": "Afterwards, the editor treated it as a record of where the team had chosen consistency, and where the demands of a particular scene justified a ____.",
+        "answer": "departure",
+        "sentenceIndex": 14
+      }
+    ]
+  }
+]
