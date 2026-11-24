@@ -60,8 +60,10 @@ export function audioUrl(category, id) {
   return import.meta.env.BASE_URL + 'audio/' + category + '/' + encodeURIComponent(mapped || audioFilename(id))
 }
 let sound
+let playSeq = 0
 export async function playAudio(category, id) {
+  const seq = ++playSeq
   sound?.pause()
   sound = new Audio(audioUrl(category, id))
-  try { await sound.play(); return true } catch { return false }
+  try { await sound.play(); return true } catch { return seq !== playSeq }
 }

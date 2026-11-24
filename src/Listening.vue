@@ -21,6 +21,10 @@ const audioError = ref(false)
 const entries = ref({})
 const submitted = ref(null)
 const dictationScore = computed(() => submitted.value?.filter(Boolean).length ?? 0)
+const transcriptLines = computed(() => (lesson.value?.transcript || '').split('\n').filter(line => line.trim()).map(line => {
+  const match = line.match(/^([A-Z][A-Za-z ]{0,20}):\s+(.*)$/)
+  return match ? { speaker: match[1], text: match[2] } : { speaker: '', text: line }
+}))
 
 watch(lesson, (item) => {
   time.value = 0
@@ -106,7 +110,9 @@ function checkDictation() {
       </div>
       <p v-if="audioError" class="notice" role="status">音频无法播放，请重新尝试。</p>
       <button class="btn secondary" type="button" :aria-expanded="showTranscript" @click="showTranscript = !showTranscript">{{ showTranscript ? '隐藏原文' : '显示原文' }}</button>
-      <p v-if="showTranscript" lang="en" class="transcript">{{ lesson.transcript }}</p>
+      <div v-if="showTranscript" lang="en" class="transcript">
+        <p v-for="(line, index) in transcriptLines" :key="index" class="transcript-line"><strong v-if="line.speaker" class="speaker">{{ line.speaker }}:</strong> {{ line.text }}</p>
+      </div>
     </section>
     <div class="practice-modes" aria-label="练习模式">
       <button class="btn" :class="{ secondary: mode !== 'quiz' }" type="button" :aria-pressed="mode === 'quiz'" @click="mode = 'quiz'">理解测验</button>
@@ -153,7 +159,9 @@ function checkDictation() {
 .audio-panel { margin-bottom: 1.2rem; }
 .audio-controls { display: flex; flex-wrap: wrap; align-items: center; gap: .8rem; margin-bottom: 1rem; }
 .audio-controls input { flex: 1 0 130px; width: auto; min-width: 0; padding: 0; accent-color: var(--indicator); min-height: 30px; }
-.transcript { line-height: 1.85; max-width: 72ch; margin-bottom: 0; white-space: pre-line; }
+.transcript { line-height: 1.85; max-width: 72ch; margin-bottom: 0; }
+.transcript-line { margin: 0 0 .35em; }
+.transcript-line .speaker { color: var(--primary-text, #0f766e); }
 .practice-modes { display: flex; gap: .5rem; flex-wrap: wrap; margin: 1rem 0; }
 .dictation-item { display: grid; gap: .45rem; }
 .dictation-item p { margin: 0; }

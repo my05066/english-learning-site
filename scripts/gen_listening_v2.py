@@ -44,41 +44,65 @@ def synth(text, model, out_wav):
     )
 
 
+SPEAKER_VOICES = [
+    ("en_US-amy-medium", "美音女声 · Amy", "F"),
+    ("en_US-ryan-medium", "美音男声 · Ryan", "M"),
+    ("en_GB-cori-medium", "英音女声 · Cori", "F"),
+    ("en_GB-alan-medium", "英音男声 · Alan", "M"),
+]
+SPEAKER_RE = re.compile(r"^([A-Z][A-Za-z ]{0,20}):\s+(.*)$")
+
+
 def segments(transcript):
-    """Split into (is_quote, text) segments preserving order."""
-    parts = re.split(r"(“[^”]*”)", transcript)
-    return [(p.startswith("“"), p.strip()) for p in parts if p.strip()]
+    """Split into (voice_key, text) segments.
+
+    Lines of the form ``Name: text`` are dialogue: each distinct name is
+    bound to ONE fixed voice (assigned in order of first appearance).
+    All other lines are narration. Returns (segments, speaker_map) where
+    voice_key is 'narrator' or the speaker name.
+    """
+    segs = []
+    speakers = {}
+    for line in transcript.split("\n"):
+        line = line.strip()
+        if not line:
+            continue
+        m = SPEAKER_RE.match(line)
+        if m:
+            name, text = m.group(1).strip(), m.group(2).strip()
+            if name not in speakers:
+                speakers[name] = SPEAKER_VOICES[len(speakers) % len(SPEAKER_VOICES)]
+            segs.append((name, text))
+        else:
+            segs.append(("narrator", line))
+    return segs, speakers
 
 
 def main():
     data = json.loads((ROOT / "src" / "data" / "listening.json").read_text(encoding="utf-8"))
     out_dir = ROOT / "public" / "audio" / "listening"
     manifest = ["# 听力配音分配（v2 多音色）", ""]
+    import sys
+    only = sys.argv[1:] or None
     for i, item in enumerate(data):
+        if only and item["id"] not in only:
+            continue
         narrator = POOL[i % len(POOL)]
-        segs = segments(item["transcript"])
-        has_dialogue = any(q for q, _ in segs)
+        segs, speakers = segments(item["transcript"])
+        has_dialogue = bool(speakers)
         label = narrator[1]
         with tempfile.TemporaryDirectory() as td:
             td = Path(td)
             wavs = []
-            quote_idx = 0
-            fi = mi = 0
-            for is_quote, text in segs:
-                if is_quote:
-                    # alternate female / male character voices, skipping narrator duplicates
-                    if quote_idx % 2 == 0:
-                        voice = FEMALE[fi % len(FEMALE)]; fi += 1
-                    else:
-                        voice = MALE[mi % len(MALE)]; mi += 1
-                    quote_idx += 1
-                else:
-                    voice = narrator
+            for voice_key, text in segs:
+                voice = narrator if voice_key == "narrator" else speakers[voice_key]
                 wav = td / f"seg{len(wavs):03d}.wav"
                 synth(text, voice[0], wav)
                 wavs.append(wav)
             if has_dialogue:
-                label += "（含双角色对话配音）"
+                label = "双角色对话 · " + " / ".join(
+                    f"{name}（{v[1].split('· ')[-1]}）" for name, v in speakers.items()
+                ) + f"，旁白 {narrator[1].split('· ')[-1]}"
             list_file = td / "list.txt"
             list_file.write_text("".join(f"file '{w}'\n" for w in wavs))
             out_mp3 = out_dir / f"{item['id']}.mp3"

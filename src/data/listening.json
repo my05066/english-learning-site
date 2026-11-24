@@ -4,7 +4,7 @@
     "level": "A2",
     "topic": "日常",
     "title": "A Morning at the Market",
-    "transcript": "On Saturday morning, Mia visits the street market. She speaks to a stallholder.\n“Good morning. Could I have four tomatoes and a bag of rice?”\n“Of course. Would you like to try an orange?”\n“Yes, please. That's lovely. I'll take six. I'm making lunch for a friend.”\n“Will you need any bread?”\n“Yes. Is the baker still here?”\n“He's here, but he's sold the last loaf. A fresh one will be ready at noon.”\n“Thank you. I'll sit by the gate and read my book until then.”\n“Enjoy your lunch!”",
+    "transcript": "On Saturday morning, Mia visits the street market. She speaks to a stallholder.\nMia: Good morning. Could I have four tomatoes and a bag of rice?\nStallholder: Of course. Would you like to try an orange?\nMia: Yes, please. That's lovely. I'll take six. I'm making lunch for a friend.\nStallholder: Will you need any bread?\nMia: Yes. Is the baker still here?\nStallholder: He's here, but he's sold the last loaf. A fresh one will be ready at noon.\nMia: Thank you. I'll sit by the gate and read my book until then.\nStallholder: Enjoy your lunch!",
     "questions": [
       {
         "prompt": "Why is Mia shopping?",
@@ -78,7 +78,7 @@
         "sentenceIndex": 16
       }
     ],
-    "voice": "美音女声 · Lessac（含双角色对话配音）"
+    "voice": "双角色对话 · Mia（Amy） / Stallholder（Ryan），旁白 Lessac"
   },
   {
     "id": "bus",
