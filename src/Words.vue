@@ -52,6 +52,7 @@ function moveCard(step) {
   flipped.value = false
   audioError.value = false
   remember(deck.value.name + ' · ' + card.value.word, cardPath(card.value))
+  if (state.autoplayWord && card.value) speak(card.value)
 }
 function gradeCard(known) {
   const entry = card.value
@@ -193,6 +194,10 @@ watch(() => route.fullPath, () => {
       <RouterLink class="btn secondary" :to="{ path: '/words/quiz', query: { deck: deck.id } }">词库测验</RouterLink>
       <RouterLink class="btn secondary" :to="{ path: '/words/spelling', query: { deck: deck.id } }">拼写练习</RouterLink>
     </nav>
+    <label class="autoplay-toggle">
+      <input type="checkbox" v-model="state.autoplayWord">
+      <span>切换单词时自动播放发音</span>
+    </label>
     <article class="panel stack">
       <div class="split">
         <span class="tag">第 {{ cardIndex + 1 }} / {{ deck.words.length }} 张</span>
@@ -357,5 +362,7 @@ watch(() => route.fullPath, () => {
 .centered { justify-content:center; }
 .spell-field { gap:5px; }
 .audio-error { margin:14px auto 0;max-width:760px; }
+.autoplay-toggle { display:inline-flex;align-items:center;gap:9px;cursor:pointer;font-size:.95rem;color:var(--ink);background:var(--surface);border:1px solid var(--control-line);border-radius:999px;padding:8px 14px;align-self:flex-start; }
+.autoplay-toggle input { width:18px;height:18px;accent-color:var(--teal,#0f766e);cursor:pointer; }
 @media (max-width:600px) { .decks { grid-template-columns:1fr; } .flip-face { min-height:200px; } }
 </style>

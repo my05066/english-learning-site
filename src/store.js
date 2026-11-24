@@ -4,7 +4,7 @@ import wordAudio from './data/word-audio.json'
 const key = 'english-corner-v1'
 const defaults = () => ({
   mastery: {}, wrong: {}, favorites: {}, listening: {}, reading: {}, grammar: {},
-  drafts: {}, phrases: {}, days: {}, last: null, theme: 'light'
+  drafts: {}, phrases: {}, days: {}, last: null, theme: 'light', autoplayWord: true
 })
 let saved
 try { saved = JSON.parse(localStorage.getItem(key)) } catch {}

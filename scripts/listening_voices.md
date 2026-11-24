@@ -1,0 +1,22 @@
+# 听力配音分配（v2 多音色）
+
+- market（A2）A Morning at the Market：美音女声 · Lessac（含双角色对话配音）
+- bus（A2）The Right Bus：美音男声 · Ryan
+- class（A2）The New Art Class：英音女声 · Alba
+- repair（B1）The Repair Café：英音男声 · Alan
+- walk（B1）A Walk with Two Plans：美音女声 · Amy
+- shift（B1）A Better Handover：美音男声 · Joe
+- trees（B2）Measuring the Shade：英音女声 · Cori
+- archive（B2）The Voices of the Archive：英音男声 · Northern
+- pilot（B2）Testing a Quiet Notification：美音女声 · HFC
+- metrics（C1）What the Dashboard Missed：美音男声 · HFC
+- wetland（C1）A Wetland that Changes：英音女声 · Jenny
+- exhibit（C1）How Visitors Use a Label：美音女声 · Lessac
+- pool-locker（A2）A Locker at the Pool：美音男声 · Ryan
+- birthday-post（A2）A Box for Grandma：英音女声 · Alba
+- school-radio（B1）The Friday School Broadcast：英音男声 · Alan
+- costume-loan（B1）A Coat for Opening Night：美音女声 · Amy
+- pottery-stacking（B2）A Kiln Full of Bowls：美音男声 · Joe
+- dubbing-booth（B2）The Pause in the Dubbing Booth：英音女声 · Cori
+- seed-exchange（C1）What a Seed Exchange Selects For：英音男声 · Northern
+- translation-contract（C1）When a Repeated Line Changes Meaning：美音女声 · HFC

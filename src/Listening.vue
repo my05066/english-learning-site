@@ -89,7 +89,7 @@ function checkDictation() {
   <template v-if="lesson">
     <header class="page-head">
       <RouterLink to="/listening">返回听力列表</RouterLink>
-      <p><span class="tag">{{ lesson.level }}</span> {{ lesson.topic }}</p>
+      <p><span class="tag">{{ lesson.level }}</span> {{ lesson.topic }}<span v-if="lesson.voice" class="muted"> · 配音：{{ lesson.voice }}</span></p>
       <h1>{{ lesson.title }}</h1>
     </header>
     <section class="panel audio-panel" aria-label="听力播放器">
@@ -141,6 +141,7 @@ function checkDictation() {
       <RouterLink v-for="item in filtered" :key="item.id" class="panel lesson-link" :to="'/listening/' + item.id">
         <div><span class="tag">{{ item.level }}</span> <span class="muted">{{ item.topic }}</span></div>
         <h2>{{ item.title }}</h2>
+        <p v-if="item.voice" class="muted">配音：{{ item.voice }}</p>
         <p v-if="state.listening[item.id]?.completed">已完成<span v-if="state.listening[item.id].score !== undefined"> · 理解 {{ state.listening[item.id].score }}/4</span><span v-if="state.listening[item.id].dictationScore !== undefined"> · 听写 {{ state.listening[item.id].dictationScore }}/5</span></p>
         <p v-else class="muted">理解测验 · 听写填空</p>
       </RouterLink>

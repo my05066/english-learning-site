@@ -77,7 +77,8 @@
         "answer": "gate",
         "sentenceIndex": 16
       }
-    ]
+    ],
+    "voice": "美音女声 · Lessac（含双角色对话配音）"
   },
   {
     "id": "bus",
@@ -157,7 +158,8 @@
         "answer": "chocolate",
         "sentenceIndex": 7
       }
-    ]
+    ],
+    "voice": "美音男声 · Ryan"
   },
   {
     "id": "class",
@@ -237,7 +239,8 @@
         "answer": "brother",
         "sentenceIndex": 8
       }
-    ]
+    ],
+    "voice": "英音女声 · Alba"
   },
   {
     "id": "repair",
@@ -317,7 +320,8 @@
         "answer": "records",
         "sentenceIndex": 9
       }
-    ]
+    ],
+    "voice": "英音男声 · Alan"
   },
   {
     "id": "walk",
@@ -397,7 +401,8 @@
         "answer": "birds",
         "sentenceIndex": 7
       }
-    ]
+    ],
+    "voice": "美音女声 · Amy"
   },
   {
     "id": "shift",
@@ -477,7 +482,8 @@
         "answer": "questions",
         "sentenceIndex": 8
       }
-    ]
+    ],
+    "voice": "美音男声 · Joe"
   },
   {
     "id": "trees",
@@ -557,7 +563,8 @@
         "answer": "shelter",
         "sentenceIndex": 8
       }
-    ]
+    ],
+    "voice": "英音女声 · Cori"
   },
   {
     "id": "archive",
@@ -637,7 +644,8 @@
         "answer": "summaries",
         "sentenceIndex": 8
       }
-    ]
+    ],
+    "voice": "英音男声 · Northern"
   },
   {
     "id": "pilot",
@@ -717,7 +725,8 @@
         "answer": "settings",
         "sentenceIndex": 5
       }
-    ]
+    ],
+    "voice": "美音女声 · HFC"
   },
   {
     "id": "metrics",
@@ -797,7 +806,8 @@
         "answer": "ranking",
         "sentenceIndex": 11
       }
-    ]
+    ],
+    "voice": "美音男声 · HFC"
   },
   {
     "id": "wetland",
@@ -877,7 +887,8 @@
         "answer": "footpath",
         "sentenceIndex": 9
       }
-    ]
+    ],
+    "voice": "英音女声 · Jenny"
   },
   {
     "id": "exhibit",
@@ -957,7 +968,8 @@
         "answer": "guide",
         "sentenceIndex": 10
       }
-    ]
+    ],
+    "voice": "美音女声 · Lessac"
   },
   {
     "id": "pool-locker",
@@ -1037,7 +1049,8 @@
         "answer": "shelf",
         "sentenceIndex": 7
       }
-    ]
+    ],
+    "voice": "美音男声 · Ryan"
   },
   {
     "id": "birthday-post",
@@ -1117,7 +1130,8 @@
         "answer": "window",
         "sentenceIndex": 7
       }
-    ]
+    ],
+    "voice": "英音女声 · Alba"
   },
   {
     "id": "school-radio",
@@ -1197,7 +1211,8 @@
         "answer": "dining",
         "sentenceIndex": 8
       }
-    ]
+    ],
+    "voice": "英音男声 · Alan"
   },
   {
     "id": "costume-loan",
@@ -1277,7 +1292,8 @@
         "answer": "cloth",
         "sentenceIndex": 8
       }
-    ]
+    ],
+    "voice": "美音女声 · Amy"
   },
   {
     "id": "pottery-stacking",
@@ -1357,7 +1373,8 @@
         "answer": "sketch",
         "sentenceIndex": 9
       }
-    ]
+    ],
+    "voice": "美音男声 · Joe"
   },
   {
     "id": "dubbing-booth",
@@ -1437,7 +1454,8 @@
         "answer": "description",
         "sentenceIndex": 9
       }
-    ]
+    ],
+    "voice": "英音女声 · Cori"
   },
   {
     "id": "seed-exchange",
@@ -1517,7 +1535,8 @@
         "answer": "infer",
         "sentenceIndex": 11
       }
-    ]
+    ],
+    "voice": "英音男声 · Northern"
   },
   {
     "id": "translation-contract",
@@ -1597,6 +1616,7 @@
         "answer": "departure",
         "sentenceIndex": 14
       }
-    ]
+    ],
+    "voice": "美音女声 · HFC"
   }
 ]
